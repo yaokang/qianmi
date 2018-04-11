@@ -1,0 +1,50 @@
+ul{list-style: none;margin: 0;padding: 0;}
+body{font-family: "Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+p{margin: 0;}
+.main h6.donation{font-size: 16px;color: #555;}
+.main h6 span{color:#64a131;font-size: 14px;}
+a{outline: none !important;}
+
+/*待领取列表*/
+.main .donation-content{width: 100%;border:1px solid #ddd;position: relative;}
+.main .donation-content .donation-nav{background: #f1f1f1;border-bottom:1px solid #ddd;color: #999;overflow: hidden;height:30px;line-height: 30px;padding-left: 14px;}
+.main .donation-content li{float: left;width: 50%;}
+.main .donation-content .donation-nav li span{color: #64a131;font-size: 18px;}
+.main .donation-content .donation-list{padding: 18px 0 10px 14px;overflow: hidden;}
+.main .donation-content .donation-list p{float: left;width:200px; }
+.main .donation-content .donation-list .icon-bg{width: 20px;height: 20px;background: url(../images/common/integrate-icons.png) no-repeat -433px -54px;cursor: pointer;margin-right: 10px;}
+.main .donation-content .donation-list.active .icon-bg{background-position: -433px 0px;}
+.main .donation-content .donation-list .donation-pic{display: inline-block;width: 110px;height:110px;margin-right: 10px;}
+.main .donation-content .donation-list .donation-pic img{width: 100%;}
+.main .donation-content .donation-list p span{display: block;line-height: 24px;color: #555;font-size: 14px;}
+.main .donation-content .donation-list p.receiving-condition span{color: #999;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.main .donation-content .donation-list .receiving-condition{margin-right: 20px; width:258px;}
+.main .donation-content .receiving-btn{/*background:#64a131;*/height: 30px;/*padding: 0 12px;*/border-radius: 5px;cursor: pointer;position: absolute;top:48px;right: 18px;line-height: 35px\9\0 !important;line-height: 30px;}
+.main .donation-content .receiving-btn a{color: #fff;text-decoration: none;border-radius: 3px;}
+
+
+/*礼品券兑换*/
+.main .donation-content .donation-voucher{padding:10px 0 24px 12px;background: #f1f1f1;}
+.main .donation-content .donation-voucher p{font-size: 14px;color: #555;margin-bottom: 24px;}
+.main .donation-content .donation-voucher input{margin-right: 12px;outline: none;border:1px solid #ddd;height: 30px;*line-height: 30px;padding: 0 10px;border-radius: 5px;width: 220px;}
+.main .donation-content .donation-voucher input.cur{border:1px solid #f53030;color:#f53030;}
+.main .donation-content .donation-voucher span{display: inline-block;background: #64a131;padding: 0 24px;height:30px;line-height:30px;border-radius: 5px;cursor: pointer;}
+.main .donation-content .donation-voucher span a{color: #fff;text-decoration: none;}
+
+/*弹框*/
+.ptsuccess,.ptVoucher{display: none;}
+/*用户中心领取赠品 添加样式 edit by yaoxue0829*/
+.dialog p{margin: 0;margin-bottom:10px;font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;text-align: center; }
+span{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.bomb{position: fixed;z-index: 12;top:0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.36);}
+
+/*兑换成功*/
+.dialog .content{height: 246px;background: #fff;margin:auto auto;}
+.ptsuccess .ex-success{width: 64px;height: 64px;background:url(../images/common/integrate-icons.png) no-repeat 0 0;margin:14px auto 26px;}
+.ptsuccess .detail p{font-size: 20px;color: #555;font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;text-align: center;}
+.ptsuccess .detail p span{color:#64a131;text-decoration: underline;}
+.ptsuccess .content .detail .OK{margin:25px  auto 0 auto;width: 90px;height: 36px;border-radius: 4px;background: #64a131;font-size: 16px;line-height: 36px;text-align: center;color: #fff;cursor: pointer;}
+.ptCart .gtop .cha{padding-top: 8px;}
+
+
+

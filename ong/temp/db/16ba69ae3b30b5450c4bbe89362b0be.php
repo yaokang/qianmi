@@ -1,0 +1,26 @@
+<?php return array (
+  0 => 'id,uid,hongbaojine,atime,gtime,off,type,beizhu,shengyujine,num,longitude,latitude,fanwei,tupian,miaoshu,lianjie,jtime,guanggao,mima,ispass',
+  1 => 
+  array (
+    'id' => 'auto_increment',
+    'uid' => 'uid_0',
+    'hongbaojine' => 'hongbaojine_0.00',
+    'atime' => 'atime_0',
+    'gtime' => 'gtime_0',
+    'off' => 'off_0',
+    'type' => 'type_0',
+    'beizhu' => 'beizhu_',
+    'shengyujine' => 'shengyujine_0.00',
+    'num' => 'num_',
+    'longitude' => 'longitude_',
+    'latitude' => 'latitude_',
+    'fanwei' => 'fanwei_0',
+    'tupian' => 'tupian_',
+    'miaoshu' => 'miaoshu_',
+    'lianjie' => 'lianjie_',
+    'jtime' => 'jtime_0',
+    'guanggao' => 'guanggao_',
+    'mima' => 'mima_',
+    'ispass' => 'ispass_0',
+  ),
+);

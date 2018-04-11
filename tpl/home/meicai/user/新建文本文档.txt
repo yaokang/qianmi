@@ -1,0 +1,112 @@
+<?php if(!defined('ONGPHP'))exit('Error ONGSOFT');
+include QTPL.'head.php';
+
+?>
+
+    <section class="p-component-usercenter clearfix">
+        <div class="sidebar s_ani" >
+            <span class="arrow"  id="arr"></span>
+            <ul class="list-unstyled">
+	            <li><a href="<?php echo mourl($CONN['userword'])?>">我的账户</a></li>
+                <li>
+                    <a href="<?php echo mourl($CONN['userword'].$CONN['fenge'].'myding')?>"  >我的订单</a>
+                    <a href="<?php echo mourl($CONN['userword'].$CONN['fenge'].'jifen');?>" >我的积分</a>
+                    <a href="<?php echo mourl($CONN['userword'].$CONN['fenge'].'jine')?>" >账户余额</a>
+                    <a href="<?php echo mourl($CONN['userword'].$CONN['fenge'].'hongbao')?>" >我的优惠券</a>
+                </li>
+                <li>
+                    <a href="<?php echo mourl($CONN['userword'].$CONN['fenge'].'pay')?>"  >在线充值</a>
+                </li>
+                <li>
+                    <a href="<?php echo mourl($CONN['userword'].$CONN['fenge'].'setting')?>" class="cur">基本资料</a>
+                    <a href="/user/password" >密码修改</a>
+                    <a href="<?php echo mourl($CONN['userword'].$CONN['fenge'].'shouhuo')?>" >收货地址</a>
+                </li>
+            </ul>
+        </div>
+                <div class="main">
+          <h6 class="tel">基本资料&nbsp;&gt;&nbsp;<span>修改头像</span></h6> 
+            <div class="detail" id="detail">
+              <form action="" method="POST" enctype="multipart/form-data" name="form">
+                <div class="file-box">
+                  <input type='button' class='sBtn pull-left' value='选择文件' />
+                  <input type='text' name='textfield' id='textfield' disabled="" class='txt pull-left' value="未选择任何文件"/>  
+                  <input type="file" name="productUpload" class="file" id="photo" size="28" onchange="change()" />
+                </div>
+                <p>仅支持jpg、gif、png图片文件，且小于5M</p>
+                <ul>
+                  <li class="bigPic">
+                    <div class="pic-box" id="pic-box">
+                      <p id="pic-title">选择你要上传的头像</p>
+                      <img class="preview" alt="" name="pic" />
+                    </div>
+                  </li>
+                  <li class="smallPic">
+                    <div>
+                     <p>请确认头像是否清晰</p>
+                     <div class="left">
+                       <img  alt="" name="pic" />
+                     </div>
+                     <div class="right">
+                       <img alt="" name="pic" />
+                     </div>
+                    </div>
+                  </li>
+                </ul>
+                <a href="javascript:;" id="submit" onclick="getFile();" >确认提交</a>
+				<!--input type="submit" value='提交' /-->
+              </form>
+            </div>
+        </div>
+    </section>
+   <!--底部 -->
+<?php include QTPL.'foot.php';?>
+
+<script type="text/javascript">
+// 上传图片  
+function change() {
+  var oDetail=document.getElementById("detail");
+  var aImg=oDetail.getElementsByTagName("img");
+  var file = document.getElementById("photo");
+  var ext=file.value.substring(file.value.lastIndexOf(".")+1).toLowerCase();
+  var textfield=document.getElementById('textfield');
+  textfield.value=file.value;
+  // gif在IE浏览器暂时无法显示
+   if(ext!='png'&&ext!='jpg'&&ext!='jpeg'){
+       gdialog_info("图片的格式必须为png或者jpg或者jpeg格式！");
+       return;
+   }
+   var isIE = navigator.userAgent.match(/MSIE/)!= null,
+       isIE6 = navigator.userAgent.match(/MSIE 6.0/)!= null;
+       
+    if (file.files && file.files[0]) {
+      var file = file.files[0];
+      var reader = new FileReader();
+      reader.readAsDataURL(file);
+      reader.onload = function(e){
+        for(var i=0;i<aImg.length;i++){
+            aImg[i].src=this.result;
+            aImg[i].style.height="100%";
+        }
+      }
+    } else{
+      file.select();
+      file.blur();
+      var reallocalpath = document.selection.createRange().text;
+
+      // IE6浏览器设置img的src为本地路径可以直接显示图片
+      for(var i=0;i<aImg.length;i++){
+       if (isIE6) {
+          aImg[i].src = reallocalpath;
+          aImg[i].style.height="100%";
+       }else {
+          // 非IE6版本的IE由于安全问题直接设置img的src无法显示本地图片，但是可以通过滤镜来实现
+           aImg[i].style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale',src=\"" + reallocalpath + "\")";
+          // 设置img的src为base64编码的透明图片 取消显示浏览器默认图片
+           aImg[i].src = 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==';
+           aImg[i].style.height="100%";
+        }
+      }               
+   }
+}
+</script>

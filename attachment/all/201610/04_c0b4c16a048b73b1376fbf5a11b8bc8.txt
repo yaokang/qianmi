@@ -1,0 +1,1386 @@
+﻿1805651026304759
+
+子用户名称：dp_1065_1628
+子用户密码：21342695
+
+1.2.9
+
+
+http://www.airobt.com/yj.php?mima=dfgjok43j56ldsflksdjflkFDJVLKDVJLKkjlk45435
+http://www.airobt.com/yj.php?mima=tongmimidsfsd43563463463463463465345
+admin13ydxcvxcv45564655474574574574VDccc345345
+
+
+sdgdshz20979845645CVCvv6765865
+
+456trCVXcvxv5645CCBNcc
+
+
+
+
+
+
+
+
+
+
+61.38.252.26:5588
+Administrator
+ziboidc12345^
+
+
+
+伯乐  23:19:54
+http://dingseo.cn
+1791735999
+wwwk851com
+
+
+
+
+
+
+
+@@156158qqqqaa3
+
+
+
+051988992224
+07251558
+www.fakala.com  hz209245.ftp.aliapp.com  hz209245
+
+15861109151
+	
+114.55.118.208
+admin@zszhifu.com  qq156158
+sgfgCVXV4546376587fgVvv546435
+
+
+@@156158qqqqaa1
+wxe862a674320745d1
+ec6a65a7d21722137a60dc881c319a6e
+
+
+1345937301@1345937301
+微信支付商户号
+
+1345937301
+商户平台登录帐号
+
+ssd563457CVCDVcc15465VVBvv132312
+
+
+
+
+
+1345937301@1345937301
+商户平台登录密码
+
+057115
+申请对应的公众号
+
+掌上智能科技（zskjcc）
+公众号APPID
+
+wxe862a674320745d1
+
+dfsvgdf34SGHFCBvcbf56745
+
+
+http://m.fruitday.com/
+
+http://www.fruitday.com/
+
+120648
+伯乐 意见整改
+购买记录刷新
+SGHFCBvcbf567452131234
+11943705 
+metas2014
+
+http://m.17kuaiqiang.com/treasure/home/
+
+http://m.17kuaiqiang.com/treasure/product?stage_no=1151861&_referrer=home
+
+http://www.kdpay.com/  56943955@qq.com chengyuen24
+
+
+
+https://mclient.alipay.com/home/exterfaceAssign.htm?alipay_exterface_invoke_assign_client_ip=180.115.25.53&subject=%E7%A7%AF%E5%88%86%E5%85%85%E5%80%BC&sign_type=RSA&notify_url=http%3A%2F%2Fweixin.hujiaozhuli.com%2Fapi%2Fbill%2Fpay%2Fali-pay%2Fnotify&out_trade_no=S42290000845_3237728092136&return_url=http%3A%2F%2Fweixin.hujiaozhuli.com%2Fbill%2Fpay%2Fafter%3Forder_no%3DS42290000845&sign=CQ7%2BkXlv55%2Fq0Tu29Vg769IsVoW9OS4Ya%2FLBapRWWvQS8fobKFE69adCqWzz8bHNPxcnErWVnrKklfaY%2FHy2TlRvF%2Bw2n4q7jsjdK42kJQTC8FkhHj7i%2FRb8%2BlJTQnHgHO7VcqtaJSgkKWLG6FKz8lHzsOARLaRS1sJI%2BUd7m7g%3D&_input_charset=utf-8&it_b_pay=2h&alipay_exterface_invoke_assign_target=mapi_direct_trade.htm&alipay_exterface_invoke_assign_model=cashier&total_fee=10.00&service=alipay.wap.create.direct.pay.by.user&partner=2088911039974713&seller_id=2088911039974713&alipay_exterface_invoke_assign_sign=_b_bcrkf_dj_uv_u_s_b_dh_q58_xg8_c8_p4m_b_r_r5j_l_c_k_o_m_nk2p0r4_s49_z_h_am8_q_tw%3D%3D&payment_type=1
+
+3351171@qq.com
+
+
+===============自己独立的支付====================
+
+1345937301
+
+
+wxe862a674320745d1
+ec6a65a7d21722137a60dc881c319a6e
+
+
+虎口脱险
+MIR   链接：http://pan.baidu.com/s/1eS6Y8Ie 密码：3p54
+OSphp 链接：http://pan.baidu.com/s/1o81sApk 密码：s73c
+淘宝客链接：http://pan.baidu.com/s/1nuSiK7B 密码：a9z8
+
+
+
+ALTER TABLE `md_user`
+MODIFY COLUMN `shouji`  varchar(20) NOT NULL DEFAULT '' COMMENT '手机号码' AFTER `email`;
+
+
+5192000001
+f0a37ac23729f17dc32b4838a4331944
+
+
+
+
+
+////////////////补丁包//////////////////////
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/laoyungou/2016.4.22.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/laoyungou/2016.5.12.rar
+
+
+http://code.google.com/p/protobuf/downloads/list
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/fk1y.exe
+
+////////////////补丁包//////////////////////
+
+?jfwlhostxyan=13aliaaapp12
+
+?zscmshost=airobt13ydqqqqaa
+
+  kjnkh
+Qq156158q
+
+
+
+
+php-7.0.6.tar.gz
+
+
+http://golang.org/
+
+59131899
+
+
+https://github.com/Suprcode/mir2/
+
+916311
+
+参数1 APP 连接类型   1 产品详情 2产品分类
+                     27单页详情 28文章详情
+	             99 外联url
+
+参数2对应的产品id或分类文章id       当等于连接类型 2产品分类时候   -9999 等于零元专区
+	                            其他负数 负多少就等于多少元产品的专区
+
+
+
+
+wap和app交互
+              先引入
+	      
+	      <script type="text/javascript">
+	       apiready = function(){
+				     
+					   
+	       }
+	       /*
+	        alink(1,35,'woqu');
+		    //app连接类型  对应的id  app显示标题
+	       
+	       */
+	      </script>
+	      <a href="javascript:alink(2,-1,'一元产品');">这是一个app交互</a>
+
+
+
+
+
+
+
+
+
+
+
+ALTER TABLE `ay_vip` MODIFY COLUMN `jine`  float(13,2) UNSIGNED NOT NULL DEFAULT 0.00 COMMENT '用户金额' AFTER `name`;
+
+
+3Y8YQA
+
+114.55.62.115    sdf45SDAFGSD1152415C
+
+
+
+rm-bp1e88q28043acanf.mysql.rds.aliyuncs.com
+r917z2298r
+sadgfsd56CX56454545324ag
+十三 2016/4/19 星期二 18:13:13
+hz192234.ftp.aliapp.com
+hz192234
+dsgdfXCsg5xdcc4447457
+
+
+
+http://ssc.junfeiwl.com/api.php?mima=13ydcaijiqxing&lx=5
+
+
+1 电脑PC端
+2 安卓APP客户端
+3 微信公众平台
+4 wap站
+5 苹果APP客户端
+
+
+id
+uid
+jifen
+bili
+atime
+ip
+xingming
+zhanghao
+fangshi
+beizhu
+liushui
+
+
+
+
+hz191048.ftp.aliapp.com
+dfg456745XZCVER154VV5464    mys6786C723432535dg436
+
+
+hz191056.ftp.aliapp.com
+dsfs546CVSV54545677767df
+
+
+
+
+
+
+
+
+
+
+ZFWIN
+ZFALI
+
+3Y8YQA1008601Lsl
+
+
+
+
+1653832859@qq.com
+yxyydb.com
+
+yyyxdb.com
+
+
+101.201.80.102
+Administrator
+x13478879879QA
+
+//////////////////////////
+fk1y@junfeiwl.com  156 158
+
+
+
+x189189
+
+
+1yxdb.com
+
+
+wx0c8c8e06dc719aa7         wx6954f93fb1e9fc08
+
+
+
+
+
+fe8c176dbfb63eeca77e2ca2ac3bf5cb   db0b145236ddb6679c9372279842da61
+
+
+
+
+/wapygqq.php?ac=forget_phone_passworddo&t=0.9598225269190104
+
+
+
+
+6000060002929746
+兔子合用 47.88.190.233  bv546ADVvcdcvb5mnm676754123
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.31.rar
+
+自己老机器 120.25.149.102    
+老的群组   120.27.195.207       sadg45CXC4545SDFCcccc
+santai.co 114.55.25.121      dsfgdf5678564XZCZXC8cccc2
+
+
+santai 34634dfgdfVCVEWEcvc
+
+sfgdf578564XZCZXC8cs2cccc2
+
+
+
+
+
+MONyog Ultimate - Single Server with Premium Support
+姓     名：Lz0
+序 列 号：a668d807-76c7-6b13-7212-aee4f81688ff
+ 
+
+
+
+
+
+
+<?php echo $CONN['hongbao']?>
+P2P 120.26.230.75
+
+新的群租 114.55.52.229
+1俊飞      120.25.206.114    dasfgasdg457455445CVCVCc   dfshdfbcv577dsccceCVDccc334  
+139.129.108.22
+
+http://www.hacklang.org/
+
+独立访问的 114.55.62.115    sdgasdgXc45461cvvr6745rdsfg
+
+http://www.1ycx8.com/htdocs.rar
+
+
+dsfgdf5678564XZCZXC8cccc2
+13770313209 成人 已通过  
+
+
+
+http://cnlogin.resellerclub.com/ForgotPassword.jsp?role=reseller&pid=&username=ai@13yd.com
+
+
+
+http://www.hengyirong.com/
+
+http://www.fk1y.com/1.zip
+
+
+sn43646VCdsgagsad
+
+
+Lipm861`
+
+
+
+
+
+
+自己的新的 114.55.25.121
+
+
+
+
+
+
+
+新的服务器  114.55.52.229
+2x1inz15$^han
+
+88992224
+
+2号服务器{ rds3b9hd1470ae5o9szv.mysql.rds.aliyuncs.com 
+qg194 terwt15541fgfdg56   vb145DFG45456945dsg
+
+
+
+}
+
+
+
+listView
+UISearchBar
+imageClip
+UIMediaScanner
+aliPay
+wxpay
+wx
+
+
+
+
+
+
+
+
+
+13347888429
+
+
+
+486134
+
+
+
+
+C:\Windows\System32\drivers\etc
+
+114.55.25.121
+
+www.wmigou.com
+
+
+
+519977712   jhy519977712..
+529260731   fbi5292.
+389198135    snaiujj77
+2921398880密码385813mm
+
+
+yingxiongduobao    sdgdfgDF3423xC1Gc
+
+120.26.230.75
+jgfd3532KKKe5ki35
+
+
+Loans
+
+
+
+
+88992224
+
+百年好合
+阳光姐妹淘
+谁都有秘密
+阿尔菲
+c:\windows\system32\drivers\etc
+
+www.1ycx8.com
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/UPUPW_NP7.0.exe   27  28 补丁需要打
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.1.17.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.1.21.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.1.27.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.1.28.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.2.1.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.2.6.rar
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.2.14.rar
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.5.rar
+
+
+
+//////http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.11.rar
+
+
+
+
+////////http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.12.rar
+
+
+
+///////////http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.13.rar
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/app.rar
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/UPUPW_NP7.2.exe
+
+
+
+
+
+
+
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.6.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.13ydappnull.rar
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.15.rar
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/php_jfwl.rar
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/UPUPW_NP7.3.exe
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/jfwl1y.exe
+
+
+
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.28.exe  jfwl13yd
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.3.31.rar
+
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.4.8.rar
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/jfwl1y.exe   jfwl13yd  junfeiwl13   junfeiwl13yd
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/app.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/php75.zip
+
+
+
+
+
+
+
+
+
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/jfwl1yk.exe  jfwl13yd
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/php5.6.rar
+
+
+
+
+
+114.55.52.252
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/php75.zip
+
+
+
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/php5.6.rar
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.4.15.rar
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/fk1y.exe
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/sql.exe
+
+
+
+
+微信#zszhifu
+13265745886
+
+
+
+/
+
+
+id
+wzhost  绑定网站
+sqname  授权域名
+sqhost  授权host
+off     授权类型  0 录入信息 1 等待验证  2成功  3 非法删除授权文件  4 写入代码   5 删除整个系统  6 服务器执行命令  其他不管
+ip      服务器ip
+atime   读取时间
+afile   安装路径
+file    生成的文件
+data    生成的代码
+zhash    hash值 host 和 服务器ip
+
+
+13aliaaapp12
+
+
+13aliaaapp12
+
+
+
+
+
+if($_POST){
+
+	foreach($_POST as  $k => $v){ 
+
+		 if(strstr(strtolower($k),$CONN['tabprefix'])  ||  strstr(strtolower($v),$CONN['tabprefix']) )exit('feifa');
+	
+	
+	}
+
+
+}
+
+
+
+
+CREATE TABLE `ong_shouquan` ( `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT , `wzhost` VARCHAR(255) NOT NULL DEFAULT '' , `sqname` VARCHAR(255) NOT NULL DEFAULT '' , `sqhost` VARCHAR(255) NOT NULL DEFAULT '' , `off` TINYINT(3) NOT NULL DEFAULT '0' , `ip` VARCHAR(20) NOT NULL DEFAULT '' , `atime` INT(11) UNSIGNED NOT NULL DEFAULT '0' , `afile` VARCHAR(255) NOT NULL DEFAULT '' , `file` VARCHAR(255) NOT NULL DEFAULT '' , `data` TEXT NOT NULL  , `zhash` VARCHAR(255) NOT NULL DEFAULT '' , PRIMARY KEY (`id`)) ENGINE = MyISAM CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
+
+
+status		用于标示系统处理的情况: 1正常; -1系统处理失败(在进入业务处理之前产生的错误或者业务程序未对自己的异常进行捕获抛出到系统中).
+	
+content		请求体正文. 格式base64(json).   服务端业务程序的处理对象. 服务端返回时content中必须要包含字段code. 系 统将提取content的值并复制该值上一层. 便于传输处理时格式base64(json)
+	
+code		返回时:返回码;请求时: 业务码.
+	
+sign		签名 md5(content+timestamp) 用于验证数据完整性
+	
+timestamp	时间截 用于数据完整性校验. 取当前时间的长整型字符串.
+	
+codeMessage	提示语. 非特殊情况, 客户端在交互时存在需要提示的情况,需要使用codeMessage进行提示.
+
+
+
+
+
+
+wet1@ewr6ter6457457457
+
+
+三台县北坝镇疾控中心对面
+
+
+510722198901023377
+
+
+http://app.qq.com/#id=detail&appid=1105065743
+
+--current-db   —dbs  是读所有库名字
+
+
+python sqlmap.py -r C:\sqlmap\s.txt —dbs
+
+JFT2
+
+
+198.15.131.27  testbaby
+
+恩，用户名 root
+
+
+http://www.wutongxiang.cc/
+
+密码 jia5gaozhen+
+
+
+我是小清新
+
+
+000818a
+admin@junfeiwl.com
+tad2Czpei20
+
+
+
+weikeyungou.com
+zszhifu
+dg4rE441Ccva1
+
+
+dg4rE441Ccva11
+
+
+
+2921398880密码385813mm
+
+
+ngpei201SDCw34
+
+6222022308007116966
+
+6222022308007566966
+
+
+
+2720908987
+
+20300115
+admin611
+server@13yd.com
+https://proxy.dinpay.com/userLogin.action
+https://merchants.dinpay.com/merchantUserOut.action
+
+常州骏飞网络科技有限公司
+
+
+https://www.heepay.com/  + 登录密码 qq156158  支付密码 qq156158@@
+
+
+2035904  C08AEF3231F04A37B4916DAC
+
+admin@junfeiwl.com
+
+qq156158@0..
+
+qq156158@0..
+qq156158
+qq158156
+
+158156qq
+
+156158__qq
+qq156158
+
+qq158156@@..
+
+
+
+qq156158
+
+
+156158@@qq
+qq158156
+江苏江南农村商业银行有限公司常州市局前街支行
+
+158156@@
+
+江苏省常州市钟楼区晋陵中路354号705室
+王俊飞
+ 4128271989707251558
+
+ 412827198707251558
+
+税务 320400081580608
+
+89801103012010000000857
+
+320404000143432
+
+
+
+代码 08158060-8
+
+test qqqqaa
+
+admin@junfeiwl.com
+qq156158@0..
+
+qq156158@@
+
+
+2030011588   admin265  qqqqaa1
+
+
+支付米小 ERYE1RY1545hhzz5551JKJJ3xxxcv
+
+
+6222022308007566966
+
+
+
+
+smtp.163.com
+www13yd@163.com
+www13yd@163.com
+
+dsztop1
+
+
+changzhou8@qq.com  156158@@ qq156158@@
+王俊飞 2016/4/13 星期三 21:41:33
+合作者身份(PID)
+2088221352872219
+安全校验码(Key)
+默认加密： epcdqako3lmhvcu0ogvlakta0nh9emlr
+
+
+
+https://download.microsoft.com/download/0/A/F/0AFB5316-3062-494A-AB78-7FB0D4461357/windows6.1-KB976932-X64.exe
+
+http://wwww.236.xdowns.com/uploadFile/2012/Windows7Loader.zip
+
+qgou
+qgou4571515XCXCccsdag
+
+
+商业行业分类
+    手机
+    红包
+    电影票
+    五金
+     SPA
+
+
+
+
+
+tchongqing
+mechongqing
+zchongqing
+yychongqing
+wapcq
+palmcq
+
+
+
+
+
+
+
+
+
+
+
+
+手机wap银行目前只支持招行、建行、交行、兴业银行、平安银行
+
+
+rtmp://ps3.live.panda.tv/live_panda/
+22db64f3d39c9a5f563287f654da29b3?sign=f054a29f8afd9adb0fb342c101f0bcdb&time=1453321258
+
+
+
+
+
+139.129.194.135
+administrator
+131417aa@@
+
+yxduobao.com
+
+
+
+梁志锋  广东省中山市港口镇大滨街370号   442000199111037354 
+
+
+微信支付#hpwx,网银支付#hpwy
+
+
+rzerl5
+
+
+3Y8YQA
+
+
+
+授权系统 ay_shquan
+id
+host 授权域名
+xtmz 授权名字
+xtwz 系统名字
+qq   联系qq
+uid  用户uid
+kname 授权文件名字
+khash 值
+atime 录入时间 
+ip   ip 时间
+
+
+https://www.longpay.com 
+100suda  100suda.com
+
+1602243718389054 9376100904906760
+
+1498
+e2141f21389b4ce8a88b3764d245eb71
+8bbd7cba0fd346b1a7770696
+龙宝接口版本 v1.0
+ 网银： https://Gate.Longpay.Com/GateWay/ChargeBank
+ 点卡： https://Gate.Longpay.Com/GateWay/CardReceive
+龙宝接口版本 v2.0
+ 网银、微信、支付宝、财付通： 
+      
+ 点卡： https://Gate.Longpay.Com/GateWay/SaleCard
+ 龙宝扫码(目前只支持微信调取二维码图片URL)
+ https://Gate.Longpay.Com/GateWay/QRCodePay
+
+龙宝接口版本 v3.0
+         https://Gate.Longpay.Com/GateWay/Paybank
+  点卡： https://Gate.Longpay.Com/GateWay/Card
+  查询： https://Gate.Longpay.Com/GateWay/Search
+
+
+兼容70版本地址
+  网银、微信、支付宝、财付通 https://Gate.Longpay.Com/StandardAPI/YZCH/Pay
+  点卡 https://Gate.Longpay.Com/StandardAPI/YZCH/Sale
+ 兼容51版本地址
+  网银、微信、支付宝、财付通 https://Gate.Longpay.Com/StandardAPI/Card51/Bank
+  点卡 https://Gate.Longpay.Com/StandardAPI/Card51/Card 
+
+
+
+
+
+
+
+120.27.195.207 {  rds31zv4i173cn44o95k.mysql.rds.aliyuncs.com
+112   289444513   qg112  XF28944451345   yytcdb.com   www.yytcdb.com
+
+114   3316164035  qg114  XF331x6164035   qqqqg114  
+qg128  XF347643007q
+ 
+fk1y  fk1y  dsafk122yDcdfdf 
+qg4800 346376574DFG612  
+qg147 5474rthG436452344
+qg149 5RYHyt67144455sd
+qg161 dast346qg1614545
+qg159 15fgfhDFFGfy9436
+
+qg111  q35345g11463463434235
+qg186  qg18656gf5757657657554
+
+yingxiongduobao    sdgdfgDF3423xC1Gc
+
+
+}
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/UPUPW_NP7.1.exe
+3Y8YQA
+
+www.fk1y.com
+
+dsafg%^114#@$@#555
+
+qgou TYURTu154545
+
+D:/UPUPW_NP7.0/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yum -y install wget gcc-c++ ncurses ncurses-devel cmake make perl bison openssl openssl-devel gcc* libxml2 libxml2-devel curl-devel libjpeg* libpng* freetype*
+
+3Y8YQA dfg2547&1KK45K56
+
+
+锟斤拷ICP锟斤拷14009054锟斤拷-11
+
+
+
+
+
+
+
+dsztop1190
+
+
+
+
+
+8-20 100 300
+20-23 50 200
+0-7 500 800
+-1 300 600
+
+
+
+120.76.76.93  Pwk136639852
+
+
+dfg547&1KK45K56
+
+793881
+
+
+
+https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.2.0-signed.msi?_ga=1.52038831.782152391.1450980854
+
+
+
+APICloud
+
+ 
+
+ALTER TABLE `ay_ding` ADD `scfwz` TINYINT(3) NOT NULL DEFAULT '0' COMMENT '生成分组' AFTER `yloff`;
+ALTER TABLE `ay_ding` ADD `sclx` TINYINT NOT NULL DEFAULT '0' COMMENT '是否生成' AFTER `scfwz`;
+update `ay_ding` set `sclx` = 1
+ALTER TABLE `ay_jiebao` ADD `kjqs` varchar(50) NOT NULL DEFAULT '' COMMENT '彩票期数' ;
+ALTER TABLE `ay_jiebao` ADD `kjhm` int(6) NOT NULL DEFAULT '0' COMMENT '彩票号码' ;
+
+
+
+
+
+ALTER TABLE `ay_xym` PARTITION BY LINEAR KEY (`id`) PARTITIONS 60;
+ALTER TABLE `ay_wfxym` PARTITION BY LINEAR KEY (`id`) PARTITIONS 60;
+ALTER TABLE `ay_ding` PARTITION BY LINEAR KEY (`xyid`) PARTITIONS 30;
+ALTER TABLE `ay_jiebao` PARTITION BY LINEAR KEY (`id`) PARTITIONS 10;
+ALTER TABLE `ay_vip` PARTITION BY LINEAR KEY (`uid`) PARTITIONS 10;
+
+
+ALTER TABLE `ay_xym` REMOVE PARTITIONING;
+ALTER TABLE `ay_wfxym` REMOVE PARTITIONING;
+ALTER TABLE `ay_ding` REMOVE PARTITIONING;
+ALTER TABLE `ay_jiebao` REMOVE PARTITIONING;
+ALTER TABLE `ay_vip` REMOVE PARTITIONING;
+ALTER TABLE `ay_xiadan` REMOVE PARTITIONING;
+
+
+ALTER TABLE `ay_vip` MODIFY COLUMN `jine`  float(13,2) UNSIGNED NOT NULL DEFAULT 0.00 COMMENT '用户金额' AFTER `name`;
+ALTER TABLE `ay_ding` ADD INDEX(`sclx`);
+ALTER TABLE `ay_ding` ADD INDEX(`scfwz`);
+ALTER TABLE `ay_xym` ADD INDEX IDX_XY_CP_CP (`XYM`,`CPID`,`CPQS`);
+ALTER TABLE `ay_wfxym` ADD INDEX IDX_XY_CQ_CP (`CPQS`,`CPID`);
+ALTER TABLE ay_ding ADD INDEX IDX_ZOFF (ZOFF);
+ALTER TABLE `ay_vip`
+MODIFY COLUMN `sexb`  tinyint(20) NOT NULL DEFAULT '-1' COMMENT '性别' AFTER `jifen`,
+MODIFY COLUMN `ange`  int(10) NOT NULL DEFAULT 0 COMMENT '年龄' AFTER `sexb`,
+MODIFY COLUMN `zhiye`  varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' COMMENT '职业' AFTER `ange`,
+MODIFY COLUMN `qqh`  varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' COMMENT 'qq号码' AFTER `zhiye`,
+MODIFY COLUMN `wxh`  varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' COMMENT '微信号码' AFTER `qqh`;
+ALTER TABLE `ay_vip` MODIFY COLUMN `jine`  float(13,2) UNSIGNED NOT NULL DEFAULT 0.00 COMMENT '用户金额' AFTER `name`;
+
+
+
+
+
+
+
+ALTER TABLE ay_ding ADD INDEX IDX_SCLX (SCLX)
+
+
+ 
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/UPUPW_NP7.0.exe
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.1.17.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.1.21.rar
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/UPUPW_NP7.0.exe
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/new/2016.1.27.rar
+
+
+
+
+
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/UPUPW_NP7.0.exe
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/wwwwwwww.rar
+http://exedownd.oss-cn-hangzhou.aliyuncs.com/2016.1.11.21.42.zip
+
+
+
+
+https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.2.0-signed.msi
+
+121.196.238.61
+dsfg#$xinde12345
+ 
+ 
+ 
+ 
+ 
+
+1.运行：cmd
+2.输入：DISKPART.exe搜索
+3.DISKPART> san
+4.DISKPART> san policy=onlineall
+5.DISKPART>list disk
+6.DISKPART> select disk 1
+7.DISKPART>attributes disk clear readonly
+8.DISKPART>online disk
+
+提现成功
+提现失败
+
+
+ 
+ 
+ autoconf
+
+str_replace($k.'_','',$v)  锟芥换
+str_ireplace($k.'_','',$v)  锟斤拷锟斤拷锟街达拷小写锟芥换
+implode(',',$xv)  锟斤拷锟斤拷锟斤拷锟斤拷
+continue 
+global
+$jkuoz=explode(chr(13),str_replace(array("\r\n", "\n", "\r"),chr(13),锟斤拷锟斤拷 锟斤拷锟街讹拷 ));  锟斤拷锟叫凤拷锟斤拷锟斤拷
+
+
+
+864890313@qq.com    锟斤拷锟斤拷  jixiaodong
+
+
+12544 2329
+模锟斤拷
+
+http://mirrors.ustc.edu.cn/mariadb//mariadb-10.1.8/winx64-packages/mariadb-10.1.8-winx64.zip
+ htmlschu($wot['0'],$kk,$CONN[$kk],$bamin['1'],$LANG['select'][$wot['1']]); 锟斤拷锟斤拷锟斤拷锟缴猴拷台锟斤拷式
+
+imageom#5#imageom'
+
+
+
+
+
+
+
+		 obj = ret;
+											 var temp = ""; 
+for(var i in obj){//锟斤拷javascript锟斤拷for/in循锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟?
+temp += i+":"+obj[i]+"\n"; 
+} 
+alert(temp);//锟斤拷锟斤拷锟絚id:C0 \n ctext:锟斤拷锟斤拷 
+
+											// alert(ret);
+		
+
+355966
+
+203.88.168.204
+Administrator
+imageom#5#imageom'
+
+
+tcduobao
+fg@$32556Adfgdf54651
+ 
+
+
+锟斤拷锟斤拷锟斤拷锟绞猴拷ai@13yd.com
+yy1171@qq.com 
+qq158156@@  
+锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷 qq156158@@123
+
+qq156158@@1Qzxcqq158156@@
+
+120.25.206.114 (锟斤拷)
+10.116.115.159 (锟斤拷)
+
+junfei
+ew3255gtsdg@#%yttrsdDSF@#1
+
+
+锟酵凤拷QQ: 100651561
+
+
+
+
+Administrator
+222.186.30.122:11712
+#wgzheadm
+qq156158@0.
++
+
+
+6222022308007566966
+锟斤拷锟斤拷锟斤拷	锟斤拷锟斤拷锟斤拷锟街?51072219890126332X
+
+http://222.73.117.158/msg/index.jsp  锟斤拷锟斤拷锟绞号ｏ拷junfei_123456  锟斤拷锟斤拷Qq156158
+
+
+http://pan.baidu.com/s/1c0Jrzhe
+
+
+
+864890313@qq.com     锟斤拷   jixiaodong
+
+
+
+
+ALTER TABLE `ay_vip` ADD `tuid1` BIGINT UNSIGNED NOT NULL DEFAULT '0' AFTER `epass`, ADD `tuid2` BIGINT UNSIGNED NOT NULL DEFAULT '0' AFTER `tuid1`, ADD `jifen` BIGINT UNSIGNED NOT NULL DEFAULT '0' AFTER `tuid2`, ADD `sexb` TINYINT(1) NOT NULL DEFAULT '-1' AFTER `jifen`, ADD `ange` INT(3) NOT NULL DEFAULT '0' AFTER `sexb`, ADD `zhiye` VARCHAR(20) NOT NULL DEFAULT '' AFTER `ange`, ADD `qqh` VARCHAR(30) NOT NULL DEFAULT '' AFTER `zhiye`, ADD `wxh` VARCHAR(50) NOT NULL DEFAULT '' AFTER `qqh`;
+ALTER TABLE `ay_vip` ADD INDEX( `tuid1`, `tuid2`);
+ALTER TABLE `ay_jiebao` ADD `kjzs` INT(11) UNSIGNED NOT NULL DEFAULT '0' AFTER `xym`;
+ALTER TABLE `ay_qgou` ADD `ktime` INT(11) UNSIGNED NOT NULL DEFAULT '0' AFTER `abosd`, ADD `kjfs` TINYINT(1) NOT NULL DEFAULT '0' AFTER `ktime`, ADD `xsjg` INT(11) UNSIGNED NOT NULL DEFAULT '180' AFTER `kjfs`;
+
+
+UPDATE `ay_qgou` SET `abojg` = ''
+ALTER TABLE `ay_qgou` CHANGE `abojg` `abojg` TEXT NOT NULL DEFAULT '' COMMENT '锟斤拷锟斤拷锟斤拷';
+
+ip 锟斤拷录
+
+120.27.132.102   锟斤拷锟斤拷
+
+121.42.204.3     锟斤拷锟狡版本
+
+
+
+
+UPDATE `ay_center` SET picj = REPLACE ( picj, 'http://203.88.168.204/', '/' );
+
+
+
+治痛经妙方1：泡矿物澡  在温水缸里加入1杯海盐及1杯碳酸氢钠。泡20分钟，有助于松弛肌肉及缓和经痛
+治痛经妙方2：保暖自己  通过喝热水、多穿衣服等方法加热身体，能扩张血管、加快血流、对抗子宫平滑肌收缩，进而减轻疼痛。
+治痛经妙方3：保持头低臀高姿势    痛经时跪在床上、抬高臀部，保持这种头低臀高的姿势能改善子宫的后倾位置，方便经血外流、解除盆腔瘀血，减轻疼痛和腰背不适症状。
+治痛经妙方4：慢慢爬行  可减缓子宫收缩时的疼痛，放松腹部的肌肉。通过慢慢爬行，可练习呼吸，以舒缓痛经。
+治痛经妙方5：多吃素   研究发现，蔬菜、豆类等低脂肪饮食，可改变体内调节性激素的结合球蛋白，进而减少引发痛经的物质合成。特别是大豆，富含一种植物性的雌激素，抑制痛经的效果最为显著。
+治痛经妙方6：看喜剧放松大脑   　当我们全神贯注于影片时，体内产生大量内啡肽，能切断疼痛信号，暂时止痛;一旦感到愉悦，身体更释放出多巴胺，活化脑细胞膜发挥止痛功效。
+治痛经妙方7：学眼镜蛇运动  能强化腹肌及承受子宫收缩时的疼痛，有缓和的功效。能避免血流过速，舒解腹部不适。
+治痛经妙方8：练习瑜伽操  瑜伽也有缓和的作用。举例如下。弯膝跪下，坐在脚跟上。前额贴地，双臂靠着身体两侧伸直。保持这姿势，直到感到不舒服为止。
+
+
+
+<?php if(!defined('ANYOUAPI')) exit("Error anyou!");
+//错误代码
+//用户错误  
+//设置session
+
+$MIMA = 'tongdsfs4575474574574546';
+setsession(40000); 
+
+if(isset( $_GET['tai'])){
+
+	 if($_GET['tai'] =='yes1' || $_GET['tai'] =='yes') msgbox('成功','/user.php');
+	 else if($_GET['tai'] =='no2') msgbox('余额不足','/user.php');
+	 else if($_GET['tai'] =='no') msgbox('数据为空','/user.php');
+
+
+
+
+}
+if(!isset($_POST['action'] )) $_POST = $_GET;
+
+
+
+
+if($_POST['action'] == 'login'){
+   
+ 
+   $OPIND  =   trim($_POST['openid']);
+   $NICE   =   trim($_POST['nice']);
+   $KEYY   =   trim($_POST['key']);
+   $MD5YZ  = strtoupper(md5($OPIND .$NICE . $MIMA));
+
+   if( $KEYY != $MD5YZ) msgbox('',WZHOST);
+    
+	 $vip = D('vip');
+
+	 $USER =  $vip ->find( array( 'openid'=>'wx_'.$OPIND ) );
+
+
+	 if(!$USER){
+
+		       $USER=array(
+						      'openid'=> 'wx_'.$OPIND,
+						      'name'=>quchuurl( $NICE),
+						       'jine'=>0 ,
+						        'pic'=> rand(1,$CONN['TOUXID']),
+							   'ip'=>IP(),
+								'atime'=>time(),
+								 'tuid'=>$_SESSION['tuid'],
+								 'yoff'=>'',
+								);
+
+
+			   $USER['uid'] = $vip ->insert($USER);
+
+			   regsong($USER['uid']);
+				  
+				  
+				  
+	}
+
+
+
+
+
+   $_SESSION['token'] = $OPIND;
+   $_SESSION['user'] = $USER;
+   if($_POST['ipoff'] =='0' || $_POST['ipoff'] =='2') $_SESSION['uip'] = ip();
+
+   if( strlen($_POST['state']) == 32){
+
+					$uhash = "app/uid/".mima($_POST['state']);
+					 $Mem ->s($uhash,$USER['uid'],120);
+				
+	}
+			    
+
+
+
+   if(count($_SESSION['order'])< 1) Header("Location: /");
+   else 
+   Header("Location: /ding.php");
+
+
+
+}else if($_POST['action'] == 'pay'){
+	
+
+	 $OPIND  =  $_POST['openid'];
+	 $uid    =  $_POST['uid'];
+	 $order  =  $_POST['order'];
+	 $jine   =  $_POST['jine'];
+
+	 $KEYY   =  $_POST['key'];
+
+     $MD5YZ  = strtoupper(md5($OPIND .$uid .$order .$jine. $MIMA));
+	 if($KEYY != $MD5YZ)exit('-1');
+
+	  chongzhifan(trim($order),$jine,$uid);
+
+	  exit('-999');
+
+
+
+
+
+
+
+
+}
+exit('3');
+
+
+
+
+
+
+<?php if(!defined('ANYOUAPI')) exit("Error anyou!");
+
+$OPENID  = str_ireplace('wx_','',$_SESSION['user']['openid']);
+
+$JINE    = $WDATA['jifen'];
+
+$SUIJI = strtoupper( md5(   time().rand( 1,999999)  )   );
+$ZH =  $WDATA['uid'];
+
+$MIMA = 'tongdsfs4575474574574546';
+
+$KEY = strtoupper( md5(  $OPENID.$JINE.$SUIJI.$MIMA.$ZH));
+
+Header ( "Location: http://www.qnwlkj.com/Recharge.aspx?hname=".$OPENID."&jin=".$JINE."&randsj=".$SUIJI."&key=".$KEY."&zh=".$ZH);
+
+
+
+
+
+
+
+
+API 通信接口约定
+
+array( 
+  'status'=>  1正常, -1处理失败
+  'code'  =>  1 ,     // 0没有数据(可统统msg输出)  1 有数据  其他不存在code 网络失败
+  'data'  =>  array(), //传输的数据
+  'msg'    =>  '', //一些提示
+
+);
+
+
+
+
+数据格式:json, 考虑数据的对称性.json的请求和返回的字段如下:
+start  有数据 1正常; 没有数据 -1
+data   base64(json)
+code   返回时:返回码;请求时: 业务码.
+sign   签名 md5( data + time)
+time   时间挫 
+msg    提示语
+apptoken 通信的会话id

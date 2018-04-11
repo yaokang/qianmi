@@ -1,0 +1,160 @@
+ul li{list-style:none}
+ul,ol{margin:0;padding:0}
+h1,h2,h3{margin:0px}
+p{ margin: 0px}
+.top-con{width: 100%;height: auto;}
+.top-con img{width: 100%;height: auto;}
+.w-1280{width:1280px;margin:0 auto;margin-bottom:6px}
+.show-ad{margin-top:10px;margin-bottom:50px}
+.show-ad ul li{margin-right:26px}
+.show-ad ul li>a{display:block; width:300px; height:140px;}
+.show-ad ul li a>img{width:100%; height:100%;}
+.show-ad ul li.last{margin:0;}
+
+.fruit-kinds{position:relative;}
+.fruit-kinds .title{padding-top:14px;padding-bottom:25px;height:67px;border-top:1px solid #ccc;}
+.fruit-kinds .title h3{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555;line-height:38px;padding-left:8px}
+.fruit-kinds .title .img-new{padding-top:7px;padding-left:9px}
+.fruit-kinds .title a{color:#999;font-size:14px;margin-top:7px}
+
+.fruit-kinds .new-kind .good-list,.fruit-kinds .new-kind2 .good-list{padding-bottom:45px}
+.fruit-kinds .good-list ul{margin:0 -4px;}
+.fruit-kinds .good-list ul li{position:relative;width:314px;margin-left:4px;margin-right:4px;margin-bottom:8px;overflow:hidden;cursor:pointer}
+.fruit-kinds .good-list ul li img{width:100%;height:100%}
+.fruit-kinds .new-kind .good-list ul li.first{width:314px;height:637px;margin-bottom:6px}
+.fruit-kinds .good-list ul li .img-scale{width:314px;height:314px;overflow:hidden}
+.fruit-kinds .good-list ul li.first .img-scale{height:637px;}
+.fruit-kinds .new-kind .good-list ul li .s-info,.fruit-kinds .new-kind2 .good-list ul li .s-info{display:none}
+.fruit-kinds .good-list ul li .wrap{position:absolute;top:322px;left:0px;width:314px;height:314px;background-color: #000;opacity: .5;filter:alpha(opacity=50);}
+.fruit-kinds .good-list ul li.first .wrap{top:637px;height:637px;}
+.fruit-kinds .good-list ul li img{-moz-transition:transform 0.3s;-webkit-transition:transform 0.3s;-o-transition:transform 0.3s;transition:transform 0.3s}
+.fruit-kinds .good-list ul li img:hover{-moz-transform:scale(1.1);-webkit-transform:scale(1.1);-ms-transform:scale(1);-o-transform:scale(1.1);transform:scale(1.1)}
+.fruit-kinds .good-list ul li .wrap a{display:block;width:100%;height:100%;text-decoration:none}
+.fruit-kinds .good-list ul li .wrap a p{font-size:18px;font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;line-height:20px;color:#bdbab8;text-align:center}
+.fruit-kinds .good-list ul li .wrap a p.first-p{color:#f6ab00;padding-top:65px}
+.fruit-kinds .new-kind .good-list ul li.first .wrap a p.first-p{padding-top:200px}
+.fruit-kinds .good-list ul li .wrap a span{display:block;width:200px;height:40px;border-radius:4px;border:1px solid  #f6ab00;text-align:center;line-height:40px;margin:50px auto 0;color:#f6ab00}
+.fruit-kinds .good-list .s-img{margin-bottom:15px;width:314px;height:314px;overflow:hidden}
+.fruit-kinds .good-list ul li .s-info{margin-bottom:14px}
+.fruit-kinds .good-list ul li .s-info .s-name{padding-left:2px;max-width:155px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.fruit-kinds .good-list ul li .s-info .s-name span{font-size:14px;font-family:'Hiragino Sans GB','Microsoft YaHei',sans-serif;line-height:24px;color:#555555}
+.fruit-kinds .good-list ul li .s-info .s-unit{margin-left:5px;max-width:120px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.fruit-kinds .good-list ul li .s-info .s-unit span{font-size:14px;font-family:'Hiragino Sans GB','Microsoft YaHei',sans-serif;line-height:25px;color:#999999}
+.fruit-kinds .good-list ul li .s-che{position:relative;top:-3px;right:2px;width:34px;height:34px;width:36px\9;height:36px\9;background:url(../images/common/icons.png) no-repeat -517px -243px;}
+.fruit-kinds .import-fruit .good-list{padding-bottom:0px}
+.fruit-kinds .title .img-new{*padding-top:12px}
+
+
+/*首页改版 edited by rose 20160428*/
+.fruit-kinds{margin-bottom:50px;}
+.fruit-kinds>.til{width:1280px; margin:0 auto; padding:15px 0 10px; height:67px; *height:42px; font-size:14px; line-height:42px; color:#333; font-family:'micosoft yahei'; border-top:1px solid #ccc; }
+.fruit-kinds>.til>.textPic{float:left; height:100%;}
+.fruit-kinds>.til>.textPic>img{height:100%;}
+.fruit-kinds>.til>.more{float:right; color:#333;}
+.fruit-kinds>.til>ul>li{float:left;}
+.fruit-kinds>.til>ul>li>a{display:inline-block; padding:0 2px; color:#333;}
+
+.fruit-kinds .good-list>ul{width:1290px; margin:0 auto;}
+.fruit-kinds .good-list .pro_main{float:left; width:248px; margin:0 5px;}
+.fruit-kinds .good-list .pro_list{float:left; position:relative; width:248px; height:305px; margin:0 5px 5px; }
+.fruit-kinds .good-list .pro_main .s-img{width:100%; height:auto; overflow:hidden; margin-bottom:0;}
+.fruit-kinds .good-list .pro_list .s-img{margin-bottom:5px; width:100%; height:auto; overflow:hidden}
+.fruit-kinds .good-list .pro_list .s-info{position:relative; margin-bottom:0; font-size:14px;font-family:'Hiragino Sans GB','Microsoft YaHei',sans-serif;line-height:24px;}
+.fruit-kinds .good-list .pro_list .s-info .s-name{padding-left:2px; overflow:hidden;white-space:nowrap;text-overflow:ellipsis; color:#555; max-width:210px;}
+.fruit-kinds .good-list .pro_list .s-info .s-unit{margin-left:5px; overflow:hidden;white-space:nowrap;text-overflow:ellipsis; color:#999;}
+.fruit-kinds .good-list .pro_list .s-info .s-che{position:absolute; top:auto; bottom:5px; right:2px; width:34px;height:34px;width:36px\9;height:36px\9;background:url(../images/common/icons.png) no-repeat -517px -243px;}
+
+.fruit-kinds>.ad{ width:1280px; margin:20px auto 0;}
+.fruit-kinds>.ad>a{display:block; width:100%;}
+.fruit-kinds>.ad>a>img{width:100%;}
+
+/*pad适配 横版*/
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape){
+    body{width:100%;height:100%;}
+    .show-ad{width:1000px; margin-bottom:40px;}
+    .show-ad ul li{ margin-right:10px}
+    .show-ad ul li>a{width:242px; height:113px;}
+
+    /*.fruit-kinds{width:1000px}*/
+    .fruit-kinds .good-list ul{margin:0 -4px;}
+    .fruit-kinds .good-list ul li{width:24%;height:auto;margin-left:5px;margin-right:4px;margin-bottom:5px}
+    .fruit-kinds .good-list ul li .s-info{margin-bottom: 0}
+    .fruit-kinds .new-kind .good-list{padding-bottom:25px}
+    .fruit-kinds .new-kind .good-list ul li{width:24%;height:auto}
+    .fruit-kinds .new-kind .good-list ul li.first{width:24%;height:auto;margin-bottom:4px}
+    .fruit-kinds .good-list ul li .img-scale{width:100%;height:auto}
+    .fruit-kinds .good-list ul li.first .img-scale{width:100%;height:auto}
+    .fruit-kinds .good-list ul li img{width:100%;height:auto}
+    .fruit-kinds .new-kind .good-list ul li .wrap{display:none}
+    .fruit-kinds .new-kind .good-list ul li .s-info{display:block;position:absolute;bottom:0;width:100%;height:40px;line-height:40px;margin-bottom:0;background-color: #fff;opacity: .75;filter:alpha(opacity=50);}
+    .fruit-kinds .good-list ul li .s-che{width:35px;height:35px}
+    .fruit-kinds .new-kind  .good-list ul li .s-info .s-name span,.fruit-kinds .new-kind  .good-list ul li .s-info .s-unit span{color:#000000}
+    .fruit-kinds .good-list ul li .s-info .s-che{top:-34px}
+    .fruit-kinds .new-kind .good-list ul li.first .s-info{position:absolute;width:100%;bottom:0}
+    .fruit-kinds .good-list .s-img{width:100%;height:auto}
+    .fruit-kinds .new-kind .good-list ul li .s-info .s-name span{width:115px}
+    .fruit-kinds .new-kind .good-list ul li .s-info .s-unite{width:100px}
+    .fruit-kinds .good-list ul li .s-info .s-unit{margin-left:0;width: 105px}
+    .fruit-kinds .good-list ul li .s-info .s-name{width: 105px;}
+    .fruit-kinds .good-list ul li .s-info .s-name span{width:115px}
+    .fruit-kinds .good-list ul li .s-info .s-unit span{width:85px}
+
+    /*首页改版 edited by rose 20160428*/
+    .fruit-kinds{margin-bottom:30px;}
+    .fruit-kinds>.til{width:1000px; padding:10px 0 8px; height:50px; *height:32px; line-height:32px; font-size:12px;}
+    .fruit-kinds .good-list>ul{width:1010px; margin:0 auto}
+    .fruit-kinds .good-list .pro_main,
+    .fruit-kinds .good-list .pro_list{width:19.22%; margin-left:.3876%; margin-right:.3876%;}
+    .fruit-kinds .good-list .pro_list{height:240px;}
+
+    .fruit-kinds .good-list .pro_list .s-info{font-size:12px; line-height:20px;}
+    .fruit-kinds .good-list .pro_list .s-info .s-name,
+    .fruit-kinds .good-list .pro_list .s-info .s-unit{width:155px;}
+    .fruit-kinds .good-list .pro_list .s-info .s-che{bottom:0;transform:scale(.9);}
+    .fruit-kinds>.ad{ width:1000px; margin-top:15px; }
+}
+@media only screen and (max-device-width:768px) and (orientation:portrait){
+    body{width:100%;height:100%}
+    .show-ad{width:750px; margin-bottom:30px}
+    .show-ad ul li{ margin-right:6px}
+    .show-ad ul li>a{width:183px; height:86px;}
+
+    /*.fruit-kinds{width:750px}*/
+    .fruit-kinds .good-list ul{margin:0 -4px;}
+    .fruit-kinds .good-list ul li{width:24%;height:auto;margin-left:3px;margin-right:4px;margin-bottom:0}
+    .fruit-kinds .good-list .s-img{margin-bottom:5px}
+    .fruit-kinds .new-kind .good-list{padding-bottom:15px}
+    .fruit-kinds .new-kind .good-list ul li{width:24%;height:auto;margin-bottom:5px}
+    .fruit-kinds .new-kind .good-list ul li.first{width:24%;height:auto;margin-bottom:5px}
+    .fruit-kinds .good-list ul li .img-scale{width:100%;height:auto}
+    .fruit-kinds .good-list ul li.first .img-scale{width:100%;height:auto}
+    .fruit-kinds .good-list ul li img{width:100%;height:auto}
+    .fruit-kinds .good-list ul li .s-info{margin-bottom:0}
+    .fruit-kinds .good-list ul li .s-che{width:35px;height:35px}
+    .fruit-kinds .good-list ul li .s-info .s-unit{margin-left:0}
+    .fruit-kinds .new-kind .good-list ul li .wrap{display:none}
+    .fruit-kinds .new-kind .good-list ul li .s-info{display:block;position:absolute;width:100%;bottom:-34px;background-color: #fff;opacity: .75;filter:alpha(opacity=50);}
+    .fruit-kinds .new-kind .good-list ul li .s-info .s-name span,.fruit-kinds .new-kind .good-list ul li .s-info .s-unit span{color:#000000}
+    .fruit-kinds .new-kind2 .good-list ul li .wrap{display:none}
+    .fruit-kinds .new-kind2 .good-list{padding-bottom:15px}
+    .fruit-kinds .new-kind2 .good-list ul li .s-info{display:block;position:absolute;width:100%;bottom:-34px;background-color: #fff;opacity: .75;filter:alpha(opacity=50);}
+    .fruit-kinds .new-kind2 .good-list ul li .s-info .s-name span,.fruit-kinds .new-kind2 .good-list ul li .s-info .s-unit span{color:#000000}
+    .fruit-kinds .good-list .s-img{width:100%;height:auto}
+    .fruit-kinds .good-list ul li .s-name{float:none!important}
+    .fruit-kinds .good-list ul li .s-unit{float:none!important;margin-left:0px}
+    .fruit-kinds .good-list ul li .s-che{top:-33px}
+
+    /*首页改版 edited by rose 20160428*/
+    .fruit-kinds{margin-bottom:30px;}
+    .fruit-kinds>.til{width:750px; padding:10px 0 8px; height:50px; *height:32px; line-height:32px; font-size:12px;}
+    .fruit-kinds .good-list>ul{width:760px; margin:0 auto;}
+    .fruit-kinds .good-list .pro_main,
+    .fruit-kinds .good-list .pro_list{width:19.22%; margin-left:.3876%; margin-right:.3876%;}
+    .fruit-kinds .good-list .pro_list{height:175px;}
+    .fruit-kinds .good-list .pro_list .s-img{margin-bottom:3px;}
+    .fruit-kinds .good-list .pro_list .s-info{font-size:12px; line-height:14px;}
+    .fruit-kinds .good-list .pro_list .s-info .s-name{width:110px;}
+    .fruit-kinds .good-list .pro_list .s-info .s-che{bottom:-4px; transform:scale(.75);}
+    .fruit-kinds>.ad{ width:750px;margin-top:15px;}
+
+}

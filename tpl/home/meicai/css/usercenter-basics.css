@@ -1,0 +1,143 @@
+ul{list-style: none;margin: 0;padding: 0;}
+body{font-family: "Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size: 14px;}
+p{margin: 0;}
+.hide{display: none;}
+.inpSel.act , .main #name input:focus,.main #mail input:focus,.main input.oldNumber:focus,.main input.newNumber:focus,.main input.newTel:focus{border-color: #64a131 !important;border-width: 1px !important;outline: 0;-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.025),0 0 8px rgba(100,161,49,0.6);box-shadow: inset 0 1px 1px rgba(0,0,0,0.025),0 0 8px rgba(100,161,49,0.6);}
+.prompt{color: #ff0000 !important;display: none;font-size: 14px !important;padding-left: 4px;}
+.main h6.basic{color: #64a131;font-size: 14px;padding-left: 10px;font-weight: 500;}
+.main h6 span{color: #999;}
+.main h6.people-info{color: #555;font-weight: 500;}
+.main .content{background: #f1f1f1;border:1px solid #ddd;min-height:350px;padding: 23px 0 20px 12px;;}
+/*基本资料*/
+
+/*头像*/
+.main .content ul li{height: 30px;}
+.main .content ul li span{color: #555;}
+.main .content ul li.pic{margin-bottom: 14px;height: 76px;}
+.main .content ul li.pic span{margin-right:3px;}
+.main .content ul li.pic div{width: 76px;margin-right: 13px;}
+.main .content ul li.pic div img{width: 76px;height: 76px;}
+.main .content ul li a:link,.main .content ul li.pic a:visited{color: #64a131;position: relative;top:58px;outline: none;}
+.main .content ul li a:hover{text-decoration: none;}
+
+/*昵称*/
+.main .content ul li.name,.main .content ul li.birth,.main .content ul li.tel{margin-bottom: 13px;}
+.main .content ul li.name span{margin-right: 24px;line-height: 30px;}
+.main .content ul li.name input{border:1px solid #ddd;height: 30px;line-height: 30px;padding-left: 10px;border-radius: 5px;}
+
+/*性别*/
+.main .content ul li.sex{margin-bottom: 5px;*margin-bottom: 0;}
+.main .content ul li.sex span{margin-right: 38px;}
+.main .content ul li.sex div{width: 160px;}
+.main .content ul li.sex div i{display: inline-block;width: 20px;height: 20px;background: url(../images/common/integrate-icons.png) no-repeat -433px -54px;cursor: pointer;margin-right: 5px;}
+.main .content ul li.sex div i.cur{background: url(../images/common/integrate-icons.png) no-repeat -433px 0;}
+.main .content ul li.sex div label{font-weight: normal;margin:0 5px 0 0;position: relative;top:-4px;*top:-1px;}
+
+/*生日*/
+.main .content ul li.birth>span{float: left;margin-right: 23px;line-height: 30px;}
+.main .content ul li.birth div{ float: left;margin: 0 5px;line-height: 30px;}
+.main .content ul li.birth .inpSel{position:relative;width:84px;height:30px;padding:0 10px;background:#fff url("../images/selbg.png") no-repeat right 0;border:1px solid #ddd;color:#555;border-radius: 4px;}
+.main .content ul li.birth .inpSel>span{display:inline-block;width:100%;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;line-height: 30px;}
+.main .content ul li.birth .inpSel>ul{display: none;position:absolute;top:29px;left:-1px;width:84px;max-height:210px;overflow:auto;background:#eee;border:1px solid #ddd;box-shadow:0 5px 5px rgba(175,175,175,0.75);*width:104px;}
+.list-unstyled{padding-left:0;list-style:none;}
+.main .content ul li.birth .inpSel>ul>li{padding:0 10px;height:30px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.main .content ul li.birth input.inpCheck{float:left;margin:8px 5px 0 80px}
+.main .content ul li.birth button{border-radius:4px;color:#fff;background:#64a131;font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;margin-left:80px;min-width:90px;margin-right:15px;font-size:16px;*line-height: 120%;*height: 36px;}
+.main .content ul li.birth .inpSel>ul>li:hover, .main .content ul li.birth .inpSel>ul li.cur {background: #64a131;color: #fff;}
+.main .content ul li.birth .inpSel.hasError {background-image: url(../images/selbg-err.png);}
+.hasError{border: 1px solid #f53030 !important;color: #f53030 !important;}
+/*电话*/
+.main .content ul li.tel span{margin-right: 28px;line-height: 30px;}
+.main .content ul li.tel input{border:1px solid #ddd;height: 30px;margin-right: 5px;line-height: 30px;padding-left: 10px;border-radius: 5px;}
+.main .content ul li.tel a:link,.main .content ul li.tel a:visited{outline:none;position: static;line-height: 30px;color: #64a131;}
+.main .content ul li.tel a:hover{color: #64a131;outline: none;text-decoration: none;}
+.main .content ul li.tel a:focus,.main .content ul li.tel a:focus{text-decoration: none;}
+/*邮箱*/
+.main .content ul li.mail{margin-bottom: 18px;}
+.main .content ul li.mail span{line-height: 30px;}
+.main .content a.submit-box{color: #fff;border-radius:3px; display:inline-block; width:100px;margin-left:70px;}
+.main .content p{margin-bottom: 15px;padding-left: 71px;color: #555;display: none;}
+.main .content p.test{color:#ff0000;}
+/*end 基本资料*/
+
+/*修改头像*/
+.main .detail{border:1px solid #ddd;padding: 20px 0 70px 12px;}
+.main .detail .file-box{border:1px solid #ddd;width:212px;margin-bottom: 12px;position: relative;overflow: hidden;}
+.main .detail .txt{padding:0;border-radius:0; height:30px;line-height: 30px; width:138px;color: #999;border:none;border-left:1px solid #ddd;padding-left: 4px;*width: 134px;}
+.main .detail .file{left: -140px;font-size: 100px\9;position:absolute; top:0;height:30px;opacity: 0; filter:alpha(opacity:0);width:212px;}
+.main .detail .sBtn{padding:0;border-radius:0;width: 72px;height: 30px;line-height: 30px;border:none; background-color:#ddd;cursor: pointer;*height: 32px;text-align: center;}
+.main .detail p{font-size: 12px;color: #999;margin-bottom: 12px;}
+.main .detail ul{overflow: hidden;margin-bottom: 20px;}
+.main .detail ul li{float: left;}
+.main .detail ul li.bigPic{padding-right: 25px;border-right:1px solid #ddd;}
+.main .detail ul li.bigPic .pic-box{overflow: hidden;position: relative;width: 384px;height: 304px;background: #eee;border:1px solid #ddd;}
+.main .detail ul li.bigPic .pic-box p{line-height: 304px;text-align: center;font-size: 18px;color: #555;}
+.main .detail ul li.smallPic{padding-left: 25px;}
+.main .detail ul li.smallPic div{width:289px; }
+.main .detail ul li.smallPic div p{text-align: center;margin-bottom: 53px;color: #555;}
+.main .detail ul li.smallPic div .left{border:1px solid #ddd;overflow: hidden;position: relative;width: 129px;float: left;border-radius: 50%;background: #eee;height: 129px;margin-right: 27px;}
+.main .detail ul li.smallPic div .right{border:1px solid #ddd;overflow: hidden;position: relative;width: 129px;float: left;height: 129px;background: #eee;}
+.main .detail a{outline:none;padding:7px 12px;background:#64a131;display: inline-block;color: #fff;text-decoration: none; border-radius:4px; min-width:90px; text-align:center;}
+.main .detail img{position: absolute; cursor: move;left:0;top:0;display: block;width: 100%;}
+
+/*end 头像*/
+
+/*更换手机*/
+.main h6.tel{color: #64a131;font-weight: 500;}
+.main h6.tel span{color: #999;}
+
+.main .detail label{font-weight: normal;font-size: 14px;color: #999;margin-right: 25px;line-height: 30px;*line-height: 27px;}
+.main .changeTel div{margin-bottom:5px;margin-left:20px;}
+.main .changeTel div input{height: 30px;width: 155px;padding-left: 10px;line-height: 30px;border:1px solid #ddd;}
+.main .changeTel div a{outline:none;border:1px solid #64a131;background:#f5ffed;padding: 4px 20px;*padding: 6px 20px;color: #64a131;text-decoration: none; border-radius:0;width: 112px;}
+.main .changeTel div span{display:inline-block;border:1px solid #64a131;background:#f5ffed;padding: 4px 20px;*padding: 6px 20px;color: #64a131;text-decoration: none;width: 112px;text-align: center;}
+.main .changeTel a.next-step{padding:10px 42px;border-radius: 5px;margin-left:72px;margin-bottom: 10px;}
+.main .changeTel p{padding-left: 116px;}
+.main .sure{display: none;}
+/*end 手机*/
+
+/*收货地址*/
+.main .order-item {padding-top:28px;border-top: 1px solid #ddd;}
+.main .order-item>.order-item-addresslist>li {height: 36px;margin: 10px 0;line-height: 36px;color: #555;}
+.main .order-item>.order-item-addresslist>li>.pull-left {max-width: 690px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.main .order-item>.order-item-addresslist>li>.pull-left .name{width: 72px;float: left;margin-right: 5px;text-overflow:ellipsis;white-space:nowrap;overflow: hidden;}
+.main .order-item>.order-item-addresslist>li>.pull-left .tel{width: 102px;float: left;margin-right: 5px;text-overflow:ellipsis;white-space:nowrap;overflow: hidden;}
+.main .order-item>.order-item-addresslist>li>.pull-left .address{width: 390px;float: left;text-overflow:ellipsis;white-space:nowrap;overflow: hidden;}
+.main .order-item>.order-item-addresslist>li>.operate {float: left;}
+.main .order-item>.order-item-addresslist>li>.operate>a {display: inline-block;margin-right: 10px;color: #f6ab00;text-decoration: underline;}
+.main .order-item>.order-item-addresslist>li>.operate>a.tag{color: #64a131;text-decoration: none;padding-right: 56px;}
+.main .order-item>.order-item-addresslist>li>.operate a.modifyAddress,.main .order-item>.order-item-addresslist>li>.operate a.deleteAddress,.main a.newAddress{color: #5157a6;text-decoration: none;}
+.main .order-item>.order-item-addresslist>li>.operate a.modifyAddress:hover,.main .order-item>.order-item-addresslist>li>.operate a.deleteAddress:hover,.main a.newAddress:hover {color: #f6ab00;text-decoration: underline;}
+.dialog > .dialog-con .formitem > .inpSel > ul{*left: -1px;}
+/*修改密码html*/
+.main .password-box{padding-left: 25px;}
+.main .detail div{margin-left: 0;margin-bottom: 10px;height: 30px;}
+.main .detail label.newsec{margin-right: 12px;}
+.main .password-box p{padding-left: 18px;}
+.main .password-box input{border: 1px solid #ddd;box-shadow: none;border-radius: 5px;font-family: arial;}
+.main .password-box input:focus{border-color: #64a131;border-width: 1px;outline: 0;-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.025),0 0 8px rgba(100,161,49,0.6);box-shadow: inset 0 1px 1px rgba(0,0,0,0.025),0 0 8px rgba(100,161,49,0.6);}
+
+.main .changeTel a.next-step{min-width: 100px;border-radius: 3px;padding: 6px 12px;outline: none;*padding: 7px 0px;}
+
+
+/*通知设置页面*/
+.main .notice-title{border-bottom: 1px solid #ddd;*margin-bottom: 10px;padding-bottom: 10px;}
+.main .notice-content table{border:1px solid #ddd;margin-top: 10px;width: 100%;}
+.main .notice-content table thead{background: #f1f1f1;height: 38px;line-height: 38px;}
+.main .notice-content table thead th{font-weight: normal;color: #999;border-bottom: 1px solid #ddd;width: 40%}
+.main .notice-content table thead th.notice-email{width: 20%;}
+.main .notice-content table thead th.notice-mess{width: 20%;}
+.main .notice-content table thead th.notice-pull{width: 20%;}
+.main .notice-content table tbody tr td{padding: 10px 0;border-bottom: 1px solid #ddd;}
+.main .notice-content table tbody tr td.notice-detail{padding-left: 12px;color: #555;}
+.main .notice-content table tbody tr td span {display: inline-block;width: 20px;height: 20px;background: url(../images/common/integrate-icons.png) no-repeat -433px -54px;cursor: pointer;position: relative;left: 4px;}
+.main .notice-content table tbody tr td span.cur {background: url(../images/common/integrate-icons.png) no-repeat -433px 0;}
+.main .notice-content table tbody tr td span.current {background: url(../images/common/integrate-icons.png) no-repeat -433px -91px;cursor: auto;}
+
+.main .notice-btn{margin-top: 15px;}
+.main .notice-btn a{min-width: 100px;padding: 6px 12px;border-radius: 3px;}
+
+.ex-success{width:64px;height:64px;background:url(../images/common/integrate-icons.png) no-repeat 0 0;margin:14px auto 26px;}
+/*.dialog>.dialog-con .formitem{height: 100%;}*/
+.dialog>.dialog-con .formitem p{text-align: center;font-size: 20px;color: #555;}
+.dialog>.dialog-con .formitem>button.sure{margin:20px 0 0 185px;}

@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style type="text/css">
+    *{padding: 0;margin:0;}
+    a{display:block;width: 35px;height: 35px;}
+    img{*border:0;width: 100%;height: 100%;}
+    html,body{width: 35px;height: 35px;}
+  
+
+    </style>
+</head>
+<body>
+    <input type="hidden" id="53_userid" name="53_userid" value="">
+    <input type="hidden" id="53_rank" name="53_rank" value="">
+    <script src="https://staticoms.fruitday.com/Js/chat/kf.min.js?companyId=70722519&style=default"></script>
+    <!--<script type="text/javascript" charset="UTF-8" src="http://wangxl4.nds3.1shen7.com/Js/chat/kf.js?companyId=70722519&style=1"></script>-->
+</body>
+</html>

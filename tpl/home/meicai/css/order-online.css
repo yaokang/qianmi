@@ -1,0 +1,80 @@
+.cl{clear: both;}
+ul{padding: 0;}
+ul li{list-style: none}
+ul,ol{margin: 0;padding: 0}
+.p-common-header .container-fluid .collapse ul.icons-cart{width: 352px; height: 42px;background: url(../images/common/icons.png) no-repeat -39px -1005px;}
+.container-fluid .collapse ul.icons-cart li{margin-top: 7px;font-size:20px;font-family: "Hiragino Sans GB","Microsoft YaHei",sans-serif;text-align: center;}
+.container-fluid .collapse ul.icons-cart li.cur p{color:#64a131;}
+.container-fluid .collapse ul.icons-cart li span{color:#ffffff;}
+.container-fluid .collapse ul.icons-cart li p{margin-top: 12px;font-size:12px;}
+.container-fluid .collapse ul.icons-cart li.li1{position: relative;left:-10px;}
+.container-fluid .collapse ul.icons-cart li.li2{position: relative;left:80px;}
+.container-fluid .collapse ul.icons-cart li.li3{position: relative;left:165px;}
+.pay_content{width:1000px;margin: 0 auto;}
+.pay-succeed{padding-top: 18px;padding-bottom: 13px;background:#eee;}
+.pay-succeed .succeed{padding: 25px 16px 32px 16px;background:#fff;}
+.pay-succeed .payorders{margin-left: 29px;}
+.pay-succeed .payorders p.order{ font:24px "Hiragino Sans GB","Microsoft YaHei",sans-serif; color:#64a131;  margin-top: 13px;margin-bottom:0}
+.pay-succeed .payorders p.min{ font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif; color:#999999;  margin-bottom: 0;line-height:35px;}
+.pay-succeed .succeed-details p{font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;margin-bottom:0}
+.pay-succeed .succeed-details p.paied{ color:#555555;}
+.pay-succeed .succeed-details p.ordernum{ color:#999999;float: left;}
+.pay-succeed .succeed-details p.figure{color:#555555;float: left;}
+.pay-succeed .succeed-details a{display: block; font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#f6ab00;}
+.pay-succeed .pay_info{padding:60px 0 0 30px;}
+.pay-succeed .pay_info .value{font: 16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.pay-succeed .pay_info .value strong{color:#f6ab00;}
+.pay-succeed .pay_info a{padding-left: 45px;color:#f6ab00;text-decoration: underline;font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.pay-succeed  .order_info .img{padding-top:15px;}
+/* 收银台开始*/
+.pay-succeed .pay-box{margin-top: 16px;margin-bottom:16px;padding:0 16px ;padding-top: 16px;background:#fff;cursor: pointer;}
+.pay-succeed .pay-box.selected{border:1px solid #64a131;}
+.pay-succeed .pay-box.unselected .remain_deduction{color:#999}
+.pay-succeed .pay-box .remain_deduction{font:20px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#64a131;}
+.pay-succeed .pay-box.unselected .now-remain em{color:#999}
+.pay-succeed .pay-box.unselected .remain_deduct{color:#999}
+.pay-succeed .pay-box.unselected .remain_deduct strong{color:#999}
+.pay-succeed .pay-box.unselected span.pull-left{background-image:url(../images/common/select.jpg)}
+.pay-succeed .pay-box span.pull-left{display:block;width:70px;height:72px;padding:0 35px 54px 16px; background: url(../images/common/selected.jpg) no-repeat 16px 4px}
+.pay-succeed .pay-box .now-remain{font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color: #999;line-height:30px;}
+.pay-succeed .pay-box .now-remain em{font-style:normal;color:#555;}
+.pay-succeed .pay-box .remain_deduct{font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.pay-succeed .pay-box .remain_deduct strong{color:#f6ab00;}
+/*收银台结束*/
+
+/*确认支付按钮样式调整*/
+.pay-succeed .pay-options{background:#fff;margin-bottom:32px;}
+.pay-succeed .pay-options .option-bd ul .a-pay3 input.sure-pay{border:none;outline: none;padding-left: 20px;}
+.pay-succeed .pay-options .choose{font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.pay-succeed .pay-options .pay_remain{font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.pay-succeed .pay-options .pay_remain strong{color:#f6ab00;}
+.pay-succeed .pay-options .option-bd ul li{position: relative; padding:15px 0 15px 35px;border-bottom: 1px solid #eee;cursor: pointer;}
+.pay-succeed .pay-options .option-bd ul li.active{border: 1px solid #64a131;color:#64a131}
+.pay-succeed .pay-options .option-bd ul li.active span{ background: url("../images/common/selected.jpg") no-repeat 0 0}
+.pay-succeed .pay-options .option-bd ul li span{position: absolute;top: 35%;left: 3%;display:inline-block; width: 20px; height: 20px;margin-right:35px;background-image:url(../images/common/select.jpg)}
+.pay-succeed .pay-options .option-bd ul li label{display:inline-block;margin-bottom:0;font-size: 20px;font-weight:normal;padding-left: 36px;}
+.pay-succeed .pay-options .option-bd ul li  .actives{position:absolute;right:20px;top:23px;color:#f6ab00}
+.pay-succeed .pay-options .pay_ways{padding:16px;padding-left: 16px;border-bottom:1px solid #eee;}
+.pay-succeed .pay-options input{padding:25px;outline: none;}
+/*注意事项*/
+.pay-succeed .succeed-notice{width:1000px;margin:0 auto; padding:34px 8px 30px 10px;border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;backgroud:#fff;font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#999999;}
+.pay-succeed .succeed-notice .notice-details{padding-left:24px;}
+.pay-succeed .succeed-notice .notice-details em{font-style: normal;color:#f6ab00;}
+
+/*pad适配*/
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation: landscape){
+    .container-fluid .collapse ul.icons-cart{margin-top: 8px;}
+    .pay-succeed .succeed{padding-bottom: 20px}
+}
+@media only  screen and (max-device-width:768px) and (orientation: portrait){
+    .w-750{width: 750px;margin: 0 auto;}
+    .pay-succeed{width:100%;padding: 15px 22px;}
+    .pay_content{ width: 100%;}
+    .pay-succeed .succeed{width: 100%;padding: 10px;}
+    .pay-succeed .succeed  .order_info{width: 60%;}
+    .pay-succeed  .order_info .img{width: 15%;}
+    .pay-succeed .payorders{width:70%}
+    .pay-succeed .payorders .pay_info{width:25%}
+    .pay-succeed .succeed-notice{width:100%;}
+}

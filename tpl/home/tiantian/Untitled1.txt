@@ -1,0 +1,147 @@
+
+            <a href="http://huodong.fruitday.com/cms/indexapp/1352?&region_id=106092&platform=wap" class="cate-title">
+                新品抢鲜
+                                <i class="iconfont icon-moretitlehome"></i>
+                                <span> </span>
+            </a>
+                                                        <div class="new-pro">
+                <div class="swiper-container swiper-list-new">
+                    <div class="swiper-wrapper">
+     
+                        <a class="swiper-slide" href="/detail/index/14727">
+                            <div class="img"><img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/product_pic/14727/1/1-370x370-14727-K5H6RY1K.jpg" alt="西藏黑钻苹果"></div>
+                            <dl>
+                                <dt>西藏黑钻苹果</dt>
+                                <div class="desc">来自西藏 水果中的艺术品</div>
+                                <dd><strong>￥58</strong>/1个</dd>
+                            </dl>
+                        </a>
+
+                        <a class="swiper-slide all" href="http://huodong.fruitday.com/cms/indexapp/1352?&region_id=106092&platform=wap">
+                            全部推荐<i class="iconfont icon-morehome"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <a href="http://huodong.fruitday.com/cms/indexapp/1053?region_id=106092&platform=wap" class="cate-title">
+                进店必Buy
+                <i class="iconfont icon-moretitlehome"></i>
+                <span> </span>
+            </a>
+
+
+            <div class="must-buy">
+
+                <a class="goods" href="/detail/index/14719">
+
+                    <div class="img"><img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/product_pic/13544/1/1-370x370-13544-1T6758X5.jpg" alt="琯溪红玉蜜柚（新客专享）"></div>
+                    <div class="detail">
+
+                        <div class="tit">琯溪红玉蜜柚（新客专享）</div>
+                        <div class="desc">新客专享 洋溢水润的甜</div>
+
+                        <div class="label">
+                            <span style="background: #FF5353">新人专享福利</span>
+                        </div>
+
+                        <div class="price"><strong>￥2</strong>/1个</div>
+
+                    </div>
+                </a>
+
+            </div>
+
+
+            <div class="must-buy">
+                <div class="swiper-container swiper-list">
+                    <div class="swiper-wrapper">
+
+                        <a class="swiper-slide" href="/detail/index/13497">
+                            <img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/product_pic/13497/1/1-370x370-13497-FWKHDTB3.jpg" alt="优选-佳沛金果">
+                            <div class="label">  <span style="background: #FF5353">第二件9.9</span>  </div>
+                            <div class="dt">优选-佳沛金果</div>
+                            <div class="dd">￥59.9/6个</div>
+                        </a>
+
+                        <a class="swiper-slide all" href="http://huodong.fruitday.com/cms/indexapp/1053?region_id=106092&platform=wap">
+                            全部推荐<i class="iconfont icon-morehome"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+
+        
+
+
+                <div class="must-buy scene">
+                <a href="http://huodong.fruitday.com/cms/share/1355?region_id=106092&platform=wap" class="scene-img">
+                    <img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/2016-11-14/e2029d5757bb3a24442abeedc7238483.jpg" alt="天天牧场">
+                    <span><img src="/images/v3/index/banner_arrow.png" alt=""></span>
+                </a>
+
+
+                <div class="swiper-container swiper-list">
+                    <div class="swiper-wrapper">
+
+                        <a class="swiper-slide" href="/detail/index/14010">
+                            <img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/product_pic/14010/1/1-370x370-14010-29KA8PPA.jpg" alt="新希望活润">
+                                                        <div class="dt">新希望活润</div>
+                            <div class="dd">￥15/260g</div>
+                        </a>
+
+                        <a class="swiper-slide all" href="http://huodong.fruitday.com/cms/share/1355?region_id=106092&platform=wap">
+                            全部推荐<i class="iconfont icon-morehome"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+
+            </div>
+        
+            <div class="must-buy scene">
+                <a href="http://huodong.fruitday.com/cms/share/1329?&region_id=106092&platform=wap" class="scene-img video">
+                    <img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/2016-11-14/32b6f95c54ffe334479166130a374110.jpg" alt="">
+                </a>
+
+            </div>
+
+            <div class="must-buy scene">
+                <a href="http://huodong.fruitday.com/cms/share/1329?&region_id=106092&platform=wap" class="scene-img video">
+                    <img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/2016-11-14/32b6f95c54ffe334479166130a374110.jpg" alt="">
+                </a>
+
+            </div>
+
+
+                
+                
+                <a href="http://huodong.fruitday.com/cms/app_v2/1176?&region_id=106092&platform=wap" class="cate-title">
+                冰鲜专区
+                        <i class="iconfont icon-moretitlehome"></i>
+                        <span>0-4℃冷藏冰鲜 点击查看更多 </span>
+                </a>
+
+            <div class="must-buy scene">
+                <div class="swiper-container swiper-list">
+                    <div class="swiper-wrapper">
+
+
+
+                        <a class="swiper-slide" href="/detail/index/12773">
+
+                            <img src="/images/v3/common/EmptyList.png" data-src="http://imgws4.fruitday.com/images/product_pic/12773/1/1-370x370-12773-5XWXP1H7.jpg" alt="山林大红肠(冰鲜)">
+                                <span style="background: #65A032">冰鲜</span>
+                                <div class="dt">山林大红肠(冰鲜)</div>
+
+                            <div class="dd">￥25.8/400g</div>
+                        </a>
+
+                    </div>
+                </div>
+            </div>

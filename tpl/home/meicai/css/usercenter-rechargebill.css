@@ -1,0 +1,15 @@
+.main .notice-title{border-bottom: 1px solid #ddd;*margin-bottom: 10px;padding-bottom: 10px;}
+.main .notice-content table{border:1px solid #ddd;margin-top: 10px;width: 100%;}
+.main .notice-content table thead{background: #f1f1f1;height: 38px;line-height: 38px;}
+.main .notice-content table thead th{font-weight: normal;color: #999;border-bottom: 1px solid #ddd;width: 40%}
+.main .notice-content table thead th.notice-email{width: 20%;}
+.main .notice-content table thead th.notice-mess{width: 20%;}
+.main .notice-content table thead th.notice-pull{width: 20%;}
+.main .notice-content table tbody tr td{padding: 10px 0;border-bottom: 1px solid #ddd;}
+.main .notice-content table tbody tr td.notice-detail{padding-left: 12px;color: #555;}
+.main .notice-content table tbody tr td span {display: inline-block;width: 20px;height: 20px;background: url(../images/common/integrate-icons.png) no-repeat -433px -54px;cursor: pointer;position: relative;left: 4px;}
+.main .notice-content table tbody tr td span.cur {background: url(../images/common/integrate-icons.png) no-repeat -433px 0;}
+.main .notice-content table tbody tr td span.current {background: url(../images/common/integrate-icons.png) no-repeat -433px -91px;cursor: auto;}
+
+.main .notice-btn{margin-top: 15px;}
+.main .notice-btn a{min-width: 100px;padding: 6px 12px;border-radius: 3px;}

@@ -1,0 +1,85 @@
+ul{list-style: none;margin: 0;padding: 0;}
+body{font-family: "Hiragino Sans GB","Microsoft YaHei",sans-serif;color: #555;}
+p{margin: 0;}
+.logoColor{color: #64a131 !important;}
+.hasError {border-color: #f53030 !important;color: #f53030 !important;}
+.clr{display: block;overflow: hidden;clear: both;height: 0;line-height: 0;font-size: 0;}
+.describe{line-height: 30px;}
+.msg-promot{font-size: 12px;color: #ed5b4b;float: left;margin-left: 40px;display: none;margin-top: 5px\9;}
+.pic-msg-promot{font-size: 12px;color: #ed5b4b;margin:0 0 6px 40px;display: none;margin-top: 5px\9;}
+
+.h30{height: 30px;}
+.main h6{font-size: 14px;color: #999;padding-left: 10px;}
+.main h6 span{color:#64a131;}
+.complain-box{display: block !important;}
+.main .detail-evaluate{padding-left: 10px;}
+.main .detail-evaluate ul li{line-height: 30px;}
+.main .detail-evaluate ul li span{color:#64a131;}
+
+/*评价说明*/
+.main .receive-info{width: 100%;margin-bottom: 12px;}
+.main .receive-info dl.ev-info{border:1px solid #ddd;padding: 16px 0 16px 10px;}
+.main .receive-info dl.ev-info dt{font-size: 16px;background: #fff;border:none;}
+.main .receive-info dl.ev-info dd{line-height: 30px;}
+
+
+.main .order-detail table.evaluate{border:1px solid #ddd;width: 100%;margin-bottom: 8px;}
+.main .order-detail table thead{background:#f1f1f1;}
+.main .order-detail table th{color: #999;font-size: 14px;font-weight: normal;line-height: 38px;text-align: center;}
+.main .order-detail table th.shop-name{text-align: left;padding-left: 8px;}
+.main .order-detail table th.shop-price{text-align: left;}
+
+.main .order-detail table thead tr{border-bottom: 1px solid #ddd;}
+.main .order-detail table tr td{border:0;border-bottom: 1px solid #ddd;}
+.main .order-detail table tr td ul{overflow: hidden;}
+.main .order-detail table tr td ul li{float: left;text-align: center;padding-top: 20px;}
+.main .order-detail table tr td .p-name{width: 230px;text-align: left;}
+.main .order-detail table tr td .p-img{width: 130px;padding: 0 10px 10px 8px;}
+.main .order-detail table tr td .p-img img{width: 100%;}
+.main .order-detail table tr td ul li.fore1{width: 50%;}
+.main .order-detail table tr td ul li.fore2{width: 20%;}
+.main .order-detail table tr td ul li.fore3{width: 30%;}
+.main .order-detail table tr td ul li a{text-decoration: none;color: #555;}
+.main .order-detail table tr td ul li.fore3 a{display:inline-block;border:1px solid #64a131;border-radius: 5px;line-height: 30px;width: 100px;margin: 0 auto;height: 30px;}
+.main .order-detail table tr td ul li.fore3 span.upevaluate{color:#64a131; font-size: 14px;}
+.main .order-detail table tr td .comment-box {display:none;background: #f1f1f1;padding: 10px 0 14px 80px;text-align: left;position: relative;zoom: 1;}
+.main .order-detail table tr td .comment-box .box-t {position: absolute;right: 108px;top: -10px;width: 12px;height: 11px;background: url(../images/common/icons.png) no-repeat -537px -681px;}
+.main .order-detail table tr td .comment-box span{float: left;}
+.main .comment-box .scoreEl{overflow: hidden;margin-bottom: 12px;}
+.main .order-detail table tr td .comment-box .evaluate{padding-top: 8px;color: #999;}
+.main .order-detail table tr td .comment-box .star a{width: 21px;height: 21px;background: url(../images/common/star.png) 0 -21px no-repeat;margin-top: 5px;display: inline-block;overflow: hidden;zoom: 1;outline: none;}
+.main .order-detail table tr td .comment-box .star a.active{background-position: 0 1px;}
+.main .order-detail table tr td .comment-box .cont{overflow: hidden;}
+.main .order-detail table tr td .comment-box .cont textarea{width: 590px;height: 88px;color: #999;border:1px solid #ddd;outline: none;padding:4px 0 0 4px;}
+.main .comment-box .picture{overflow: hidden;margin-bottom: 10px;}
+.upload-img-box .img-list{position: relative;height: 104px;}
+.upload-img-box .img-list li {float: left;position: relative;width: 80px;height: 80px;border: 1px solid #ccc;overflow: hidden;margin: 5px 5px 0 0;_display: inline;padding-top: 0 !important;}
+.upload-img-box .img-list li.upload-btn {max-width: 80px;max-height: 80px;text-align: right;margin:5px 5px 0 0;padding-top: 0;}
+.upload-img-box .img-list li.upload-btn a {display: block;width: 80px;height: 80px;line-height: 80px;color: #999;text-align: center;background: #fff;outline: none;}
+.ar {text-align: right;color: #999;float:none !important; font-size: 12px;position: absolute;width:100%;height: 20px;right: 7px;bottom: -7px;z-index: 100;}
+.ar b{font-weight: normal;}
+.pic-btn{font-size: 999px; position: absolute; width: 100%; height: 100%;}
+.plupload{position: absolute;width: 80px;height: 80px;overflow: hidden;z-index: 0;opacity: 0;top: 0;left: 0;background: transparent;}
+.msg-text{text-align: right;color: #999;padding-right: 45px;font-size: 12px;float: right;margin-top: 5px\9;}
+
+/*图片遮罩层*/
+.upload-img-box .img-list li img{position: absolute;top:0;left: 0;z-index: 10;}
+
+.upload-img-box .img-list li .del {position: absolute;left: 0;top: 0;width: 80px;height: 80px;background-color: #000;opacity: .5;filter: alpha(opacity=50);z-index: 10;}
+.upload-img-box .img-list li .del em {font-style: normal;position: absolute;right: 2px;top: 0;line-height: 18px;color: #fff;font-family: verdana;cursor: pointer;}
+
+.main .order-detail table tr td .comment-box .imevaluate{margin-left: 40px;/*width: 84px;background: #64a131;height: 26px;line-height: 26px;*/}
+.main .order-detail table tr td .comment-box .imevaluate a{min-width: 59px;text-align: center;border-radius: 3px;}
+
+/*翻页*/
+.main .btn-toolbar {width: 760px;margin-left: 0px;background-color: #f1f1f1;}
+.main .btn-toolbar .page-content {text-align:center;margin: 0 auto;padding:6px 0;}
+.main .btn-toolbar .page-content .last {width: 65px;margin-left: 10px;display: inline-block;}
+.main .btn-toolbar .page-content .pagenum {margin-top: 3px;display: inline-block;}
+.main .btn-toolbar .page-content .pagenum a {display: inline-block;height: 26px;margin:0 8px;font-size: 14px;font-family: 'Hiragino Sans GB','Microsoft YaHei',sans-serif;line-height: 26px;text-align: center;color: #555555;text-decoration: none;
+}
+.main .btn-toolbar .page-content .next {margin-right: 10px;width: 65px;display: inline-block;}
+.btn-toolbar .page-content .last a, .btn-toolbar .page-content .next a {display: inline-block;width: 65px;height: 20px;font-size: 14px;line-height: 20px;margin-top: 5px;font-family: 'Hiragino Sans GB','Microsoft YaHei',sans-serif;color: #555555;cursor: pointer;}
+.main .btn-toolbar .page-content .pagenum a:hover , .btn-toolbar .page-content .last a:hover, .btn-toolbar .page-content .next a:hover {color: #64a131;text-decoration: underline;}
+.main .btn-toolbar .page-content .pagenum a.cur {min-width: 26px;border-radius: 13px;padding:0 3px;height: 26px;line-height: 28px\9\0;color: #ffffff;background: #64a131;}
+.main .btn-toolbar .page-content .pagenum a.cur:hover{text-decoration: none;}

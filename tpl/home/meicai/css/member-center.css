@@ -1,0 +1,304 @@
+ul li{list-style:none}
+ul,ol{margin:0}
+ul{padding-left:0}
+.member-body{width:100%;background-color:#f1f1f1;height:400px;margin-bottom:42px}
+.member-body .member-content{width:1280px;margin:0 auto}
+.member-body .member-boxheader{width:1280px;margin:auto}
+.member-body .member-info{width:300px;height:400px;background-color:#64a131}
+.member-body .member-info .member-main{margin:0 auto;padding-top:18px;padding-bottom:10px}
+.member-body .member-info .member-main p{text-align:center;font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#ffffff}
+.member-body .member-info .member-main p.p-col{color:#9bc07d}
+.member-body .member-info .member-main .header-img{position:relative;width:150px;margin:0 auto;margin-bottom:10px;height:150px}
+.member-body .member-info .member-main .header-img img{border-radius:75px;width:150px;height:150px;}
+.member-body .member-info .member-main .header-img .member-levels{position:absolute;bottom:20px;right:5px;width:28px;height:28px;background:url(../images/common/icons.png) no-repeat -512px -473px;}
+/*edit by rose 20150906*/
+.member-body .member-info .member-main .header-img .member-levels.v0{background:url(../images/vip_0.png) no-repeat 0 0;}
+.member-body .member-info .member-main .header-img .member-levels.v1{background:url(../images/vip_1.png) no-repeat 0 0;}
+.member-body .member-info .member-main .header-img .member-levels.v2{background:url(../images/vip_2.png) no-repeat 0 0;}
+.member-body .member-info .member-main .header-img .member-levels.v3{background:url(../images/vip_3.png) no-repeat 0 0;}
+.member-body .member-info .member-main .header-img .member-levels.v4{background:url(../images/vip_4.png) no-repeat 0 0;}
+.member-body .member-info .member-main .header-img .member-levels.v5{background:url(../images/vip_5.png) no-repeat center 0; width:33px;}
+.member-body .member-info .member-main .member-bottom{margin-top:40px}
+.member-body .member-info .member-main .member-bottom li.line{width:1px;height:45px;background-color:#ccc}
+.member-body .member-info .member-main .member-bottom ul li{text-align:center}
+.member-body .member-info .member-main .member-bottom ul li p{margin-top:8px}
+.member-body .member-info .member-main .member-bottom ul li span{font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#9bc07d}
+.member-body .member-info .member-main .member-bottom ul li.integrate{padding-left:30px;padding-right:25px;}
+.member-body .member-info .member-main .member-bottom ul li.remainder{padding-left: 25px;padding-right: 25px;}
+.member-body .member-info .member-main .member-bottom ul li.coupon{padding-left:25px}
+.member-body .member-banner{position:relative;width:980px;height:400px}
+.member-body .member-banner .frame{width:980px;height:100%}
+.member-body .member-banner .frame .slidee{height:100%;width:2940px;overflow:hidden}
+.member-body .member-banner .frame .slidee>li{float:left;height:100%}
+.member-body .member-banner .frame .slidee>li>a{position:relative;display:block;width:100%;height:100%;overflow:hidden;background-position:center center;text-align:center;background-size:100% auto}
+.member-body .member-banner .slidebtn{position:absolute;width:200px;height:20px;bottom:20px;margin-bottom:0;left:50%;padding-left:0;margin-left:-100px;text-align:center;z-index:10}
+.member-body .member-banner .slidebtn>li{float:none;display:inline-block;list-style:none;width:18px;height:18px;border:1px solid #64a131;border-radius:50%;margin:0 8px;background:#64a131;cursor:pointer}
+.member-body .member-banner .slidebtn>li.active{background:rgba(100,161,49,0.1)}
+.member-content{width:1280px;margin:0 auto}
+.member-content .member-righzts{width:1000px;border-top:1px solid #ccc}
+.member-content .member-righzts .member-enjoy h3{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;padding-top:18px;margin-bottom:16px;margin-top:0}
+.member-content .member-righzts .member-enjoy ul{margin:0 -4px;}
+.member-content .member-righzts .member-enjoy ul li{width:244px;position:relative;margin:0 4px;}
+.member-content .member-righzts .member-enjoy ul li .member-img{width: 244px;height: 244px;}
+.member-content .member-righzts .member-enjoy ul li .member-img a>img{width: 100%;height: 100%}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox{height:146px;background-color:#f7f7f7;text-align:center}
+.member-content .member-righzts .member-enjoy ul li .member-levelimg{position:absolute;top:10px;left:-4px;height:21px;}
+/*会员中心等级图标修复 2015/12/28*/
+.member-content .member-righzts .member-enjoy ul li .member-levelimg span{float: left;font-size: 12px;line-height: 20px; color:#fff;}
+.member-content .member-righzts .member-enjoy ul li .member-levelimg span.level-bg{width: 4px;height: 20px;background:url(../images/common/icons.png) no-repeat -126px -298px;}
+.member-content .member-righzts .member-enjoy ul li .member-levelimg span.level-title{padding:0 5px;height: 19px;margin-top:1px;background:#4d8b19;}
+.member-content .member-righzts .member-enjoy ul li .member-levelimg span.single{width: 9px;height: 19px;margin-top: 1px;background-position: -130px -299px;}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox p.p-name{font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;padding-top:15px}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox p.p-name-width{margin:auto;margin-bottom:10px;padding-left:15px;padding-right:15px;width:214px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox .line{width:32px;height:1px;background-color:#cccccc;margin:0 auto;margin-bottom:8px}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox p.member-price{font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox p.member-price span{font-size:12px}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox p.member-price em{font-size:16px;color:#64a131;font-style:normal}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox p.member-price s{color:#bcbcbc}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox a.price-btn{display:block;width:170px;height:40px;background-color:transparent;border-radius:4px;border-color:#555555;margin:0 auto;font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;line-height:26px;line-height: 32px\9\0;}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox a.btn:active,.member-body .member-content .member-righzts .member-enjoy ul li .member-pricebox a.btn.active{background-image:none;outline:0;-webkit-box-shadow:none;box-shadow:none}
+.member-content .member-applyeat{position:relative;width:260px;height:450px;background-color:#f6ab00;margin-left:20px}
+.member-content .member-applyeat p.tryeat{position:absolute;top:0;left:0;z-index:2;width:260px;height:49px;background-image:url(../images/common/title.png);font:18px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#ffffff;text-align:center;padding:6px}
+.member-content .member-applyeat .tryeat-body{position:absolute;top:40px;width:258px;height:409px;left:1px;background-color:#fff9ea;padding:22px 11px 0 11px}
+.member-content .member-applyeat .tryeat-body .member-img>a>img{width: 236px;height: 244px;overflow: hidden;}
+.member-content .member-applyeat .tryeat-body .member-pricebox{height:46px;text-align:center}
+.member-content .member-applyeat .tryeat-body .member-pricebox .tryeat-none{background-color: #fff;height: 80px;margin-bottom: 10px;}
+.member-content .member-applyeat .tryeat-body .member-pricebox .tryeat-none p{font-size: 16px;color: #64a131;margin-bottom: 5px;}
+.member-content .member-applyeat .tryeat-body .member-pricebox p.p-name{font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;padding-top:15px}
+.member-content .member-applyeat .tryeat-body .member-pricebox p.p-name-width{margin:auto;margin-bottom:10px;padding-left:15px;padding-right:15px;width:214px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.member-content .member-applyeat .tryeat-body .member-pricebox .line{width:32px;height:1px;background-color:#cccccc;margin:0 auto;margin-bottom:8px}
+.member-content .member-applyeat .tryeat-body .member-pricebox{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif}
+.member-content .member-applyeat .tryeat-body .member-pricebox span.y-jia{font-size:14px;color:#555555}
+.member-content .member-applyeat .tryeat-body .member-pricebox em{font-size:16px;color:#f6ab00;font-style:normal}
+.member-content .member-applyeat .tryeat-body .member-pricebox a.price-btn{display:block;width:170px;height:40px;background-color:#f6ab00;border-radius:4px;margin:0 auto;font:16px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#ffffff;line-height:26px}
+.member-content .member-applyeat .tryeat-body .member-pricebox a.tryeatnone{background: #999999;}
+.member-content .member-applyeat .tryeat-body .member-pricebox a.btn:active,.member-body .member-content .member-applyeat .tryeat-body .member-pricebox a.btn.active{background-image:none;outline:0;-webkit-box-shadow:none;box-shadow:none}
+.member-content .member-service{margin-bottom:50px}
+.member-content .My-special{border-top:1px solid #ccc;margin-bottom:36px}
+.member-content .My-special h3{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;padding-top:18px;margin-top:0;margin-bottom:39px}
+.member-content .My-special ul li{float:left;width:167px;height:202px;background:url(../images/common/have-spe.png) no-repeat center center;margin-right:18px}
+.member-content .My-special ul li.last{margin-right:0}
+.member-content .My-special ul li.disabled{background-image:url(../images/common/no-spe.png)}
+.member-content .My-special ul li p.icon{padding:30px 30px 0px 30px;margin-bottom:0;text-align:center}
+.member-content .My-special ul li p>i.iconfont{font-size:45px;color:#f6ab00}
+.member-content .My-special ul li.disabled p>i.iconfont{color:#cccccc}
+.member-content .My-special ul li p.action{text-align:center;font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#ffffff}
+.member-content .My-special ul li p.p-thing{text-align:center;padding-top:30px;margin-bottom:0;font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#f6ab00}
+.member-content .My-special ul li.disabled p.p-thing{color:#cccccc}
+.member-content .My-special ul li.disabled p.disabled-padding{padding-top:20px}
+.member-content .add-score{border-top:1px solid #ccc;margin-bottom:57px}
+.member-content .add-score h3{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;padding-top:18px;margin-top:0;margin-bottom:36px}
+.member-content .add-score ul{margin:0 -3px;}
+.member-content .add-score ul li{float:left;width:250px;height:310px;margin:0 3px;margin-bottom: 5px;}
+.member-content .add-score ul li.last{margin-right:0}
+.member-content .add-score ul li .exchange-img>img{width:250px;height:250px;overflow: hidden;}
+.member-content .add-score ul li .exchange-info{padding-top:10px}
+.member-content .add-score ul li .exchange-info div span,.member-body .member-content .add-score ul li .exchange-info div s{font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif}
+.member-content .add-score ul li .exchange-info div s{color:#b0b0b0}
+.member-content .add-score ul li .exchange-info div p{margin-bottom:0;margin-top:5px}
+.member-content .add-score ul li .exchange-info div p em{font:18px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#64a131;font-weight:bold;padding-top: 2px}
+.member-content .add-score ul li .exchange-info div p span{font:14px "Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;font-weight:bold;padding-top: 7px;} 
+.member-content .add-score ul li .exchange-info div a{display:block;width:50px;height:50px;background-color:#64a130;color:#ffffff;text-align:center;padding-top:5px;font:14px "Hiragino Sans GB","Microsoft YzaHei",sans-serif;line-height: 20px;line-height: 22px\9\0; color:#ffffff;text-decoration:none}
+.member-content .add-score ul li .exchange-info .leftpart{width: 195px; height:53px;overflow: hidden;}
+.member-content .add-score ul li .exchange-info .leftpart span.sp1{ color:#555555;width: 130px; overflow: hidden;white-space: nowrap;text-overflow:ellipsis; }
+.member-content .member-apply{position:relative;border-top:1px solid #ccc;margin-bottom:57px}
+.member-content .member-apply h3{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;padding-top:18px;margin-top:0;margin-bottom:56px}
+.member-content .member-apply .level{position:absolute;top:227px;left:0;z-index:-1;width:100%;height:20px;background:url(../images/common/level.png)}
+.member-content .member-apply .step{width:105px;background:url(../images/common/medal.png) no-repeat;margin-left:52px;margin-right:52px}
+.member-content .member-apply .step p{text-align:center;font:20px "Hiragino Sans GB W6","Microsoft YaHei",sans-serif;color:#ffe50b;font-weight:bold;margin-top:68px}
+.member-content .member-apply .step span{display:block;width:16px;height:16px;margin:auto;margin-top:34px;background:url(../images/common/icons.png) no-repeat -528px -596px}
+.member-content .member-apply .step .member-title{font:20px "Hiragino Sans GB W6","Microsoft YaHei",sans-serif;color:#64a130;text-align:center;margin-top:20px}
+.member-content .member-apply .step .level-panel{width:187px;height:90px;margin-left:-36px;padding-top:20px;background:url(../images/common/level-panel.png) no-repeat center center}
+.member-content .member-apply .step .level-panel p{padding-left:10px;padding-right:10px;font:14px "Hiragino Sans GB W6","Microsoft YaHei",sans-serif;color:#999999;text-align:center;margin-top:12px}
+.member-content .member-orders{border-top:1px solid #ccc}
+.member-content .member-orders h3{font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555555;padding-top:18px;margin-top:0;margin-bottom:29px}
+.member-content .member-orders ul>li{font:14px "Hiragino Sans GB","Microsoft YaHei W6",sans-serif;color:#555555}
+.member-content .member-orders ul>li p{font:14px "Hiragino Sans GB","Microsoft YaHei W6",sans-serif;color:#555555;font-weight:bold}
+.member-content .member-orders ul>li>ul{padding-left:15px;margin-bottom:26px}
+.member-content .member-orders .fruitday-list{width:460px}
+.member-content .member-orders .fruitday-list .list01{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -11px -15px}
+.member-content .member-orders .fruitday-list .list02{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -170px -15px}
+.member-content .member-orders .fruitday-list .list03{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -328px -15px}
+.member-content .member-orders .fruitday-list .list04{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -11px -168px}
+.member-content .member-orders .fruitday-list .list05{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -170px -177px}
+.member-content .member-orders .fruitday-list .list06{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -328px -177px}
+.member-content .member-orders .fruitday-list .list07{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -11px -329px}
+.member-content .member-orders .fruitday-list .list08{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -170px -329px}
+.member-content .member-orders .fruitday-list .list09{width:146px;height:146px;background:url(../images/common/icon-list.png) no-repeat -328px -329px}
+.member-content .member-orders .fruitday-list .list-margin{margin-left:6px;margin-right:6px}
+.member-content .member-orders .fruitday-list div{margin-bottom:6px}
+.ptgoods,.ptsuccess,.ptcoupon,.level-erroer,.point-error{background:rgba(0,0,0,0.16);z-index:13;display:none}
+.dialog .content{height:246px;background:#fff;margin:auto auto}
+
+.ptgoods .content .detail .in-img{padding:30px 30px 0 20px}
+.content .detail .describe{padding-top:16px}
+.ptgoods .content .detail .describe{padding-top:45px}
+.content .detail .describe p{margin:0;font-size:20px;line-height:20px;font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;color:#555;padding-bottom:16px}
+.content .detail .describe p span{color:#64a131}
+.content .detail .describe p:nth-child(2){color:#999;font:16px/16px "Hiragino Sans GB","Microsoft YaHei",sans-serif}
+.content .detail .anniu{padding-top:15px}
+.content .detail .anniu div{width:90px;height:36px;border-radius:4px;float:left;font-size:16px;line-height:36px;text-align:center;color:#fff;cursor:pointer}
+.content .detail .anniu .OK{background:#64a131;margin-right:6px}
+.content .detail .anniu .cancel{background:#91c764}
+.ptsuccess .ex-success{width:64px;height:64px;background:url(../images/common/integrate-icons.png) no-repeat 0 0;margin:14px auto 26px}
+.ptsuccess .detail p{font-size:20px;color:#555;font-family:"Hiragino Sans GB","Microsoft YaHei",sans-serif;text-align:center}
+.ptsuccess .detail p span{color:#64a131;text-decoration:underline}
+.ptcoupon .content .detail{padding:42px 0 0 20px}
+.ptcoupon .content .detail .in-img{padding:23px 0 0 14px;width:179px;height:124px;background:url(../images/integrate-bg.png) no-repeat;padding-right:0;margin-right:23px}
+.ptcoupon .content .detail .describe p{padding-bottom:8px}
+.ptcoupon .content .detail .in-img ul{list-style:none;overflow:hidden;height:35px;margin-bottom:15px}
+.ptcoupon .content .detail .in-img ul li{float:left}
+.ptcoupon .content .detail .in-img ul p{margin:0}
+.ptcoupon .content .detail .in-img ul li:nth-child(1){line-height:35px;font-size:40px;font-weight:bold;color:#64a131;padding-right:8px}
+.ptcoupon .content .detail .in-img ul li:nth-child(2) p{font-size:14px;color:#555;line-height:15px}
+.ptcoupon .content .detail .in-img ul li:nth-child(2) p:nth-child(2){font-size:16px;font-weight:bold}
+*.ptcoupon .content .detail .in-img ul li.shop-price{line-height:35px;font-size: 40px;font-weight: bold;color: #64a131;padding-right: 8px;}
+*.ptcoupon .content .detail .in-img ul li.shop-sign p.rmb-sign{font-size: 14px;color: #555;line-height: 15px;}
+*.ptcoupon .content .detail .in-img ul li.shop-sign p.shop-vocher{font-size: 16px;font-weight: bold;}
+.ptcoupon .content .detail .in-img .time{font-size:12px;color:#999;margin-top:8px}
+.content .detail p span{color:#64a131;cursor:pointer}
+.point-error .ex-error{width:64px;height:64px;background:url(../images/common/integrate-icons.png) no-repeat -135px 0;margin:14px auto 26px}
+.point-error .content .detail .OK{margin:25px  auto 0 auto;width:90px;height:36px;border-radius:4px;background:#64a131;font-size:16px;line-height:36px;text-align:center;color:#fff;cursor:pointer}
+.point-error p{color:#555;font-size:20px;text-align:center}
+
+.fix{float:left;color:#999;margin-right:10px}
+
+
+/*pad适配*/
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape){
+body{width:100%;height:100%}
+.member-content{width:1000px}
+.member-content .member-service{width:1000px;margin:auto;margin-bottom:30px}
+.member-body{background-color:transparent;margin-bottom:30px;height:auto}
+.member-body .member-boxheader{width:1000px;margin:auto}
+.member-body .member-info .member-main .member-bottom ul li.integrate{padding-left:15px;padding-right:18px}
+.member-body .member-info .member-main .member-bottom ul li.coupon{padding-left:18px}
+.member-body .member-info{width:25%;height:335px}
+.member-body .member-info .member-main{padding-top:12px}
+.member-body .member-info .member-main .member-bottom{margin-top:10px}
+.member-body .member-info .member-main p{margin-bottom:5px}
+.member-body .member-banner{width:75%;height:335px}
+.member-body .member-banner .frame{width:auto}
+.member-body .member-banner .frame .slidee>li>a{-webkit-background-size:cover;background-size:cover}
+.member-content .member-righzts{width:80%}
+.member-content .member-applyeat{width:20%}
+.member-content .member-righzts .member-enjoy h3{margin-top:18px;margin-bottom:10px}
+.member-content .member-righzts .member-enjoy ul li{width:24%}  
+.member-content .member-righzts .member-enjoy ul li .member-img{width: 192px;height: 192px}
+.member-content .member-righzts .member-enjoy ul li .member-img>a>img{width: 100%; height: 100%;;}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox p.p-name-width{width:100%}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox a.price-btn{width:70%;height:34px;line-height:20px;}
+.member-content .member-applyeat{width:19%;margin-left:10px}
+.member-content .member-applyeat p.tryeat{width:100%;background-size:100% 100%}
+.member-content .member-applyeat .tryeat-body .member-img>a>img{width: 178px;height: 178px;}
+.member-content .member-applyeat .tryeat-body .member-pricebox p.p-name-width{width:100%}
+.member-content .member-applyeat{height:410px}
+.member-content .member-applyeat .tryeat-body{width:99%;padding:2px;padding-top:32px;padding-left:5px;padding-right:5px;margin-top:3px;height:366px}
+.member-content .member-applyeat .tryeat-body .member-pricebox a.price-btn{width:75%;height:34px;line-height:20px}
+.member-content .My-special{margin-bottom:0}
+.member-content .My-special h3{padding-top:18px;margin-bottom:2px}
+.member-content .My-special ul li{width:13%;margin-right:15px;-webkit-background-size:100% auto;background-size:100% auto}
+.member-content .My-special ul li.disabled{-webkit-background-size:100% auto;background-size:100% auto}
+.member-content .My-special ul li.disabled p.disabled-padding{padding-top:6px}
+.member-content .My-special ul li p.icon{padding-top:43px}
+.member-content .My-special ul li p>i.iconfont{font-size:35px}
+.member-content .My-special ul li p.p-thing{padding-top:8px;font-size:12px;padding-left:15px;padding-right:15px}
+.member-content .add-score h3{padding-top:20px;margin-bottom:15px}
+.member-content .add-score ul li{width:19%;height:auto}
+.member-content .add-score ul li .exchange-img{width:100%;height:auto}
+.member-content .add-score ul li .exchange-img>img{width:190px;height:190px}
+.member-content .add-score ul li .exchange-info div a{width:45px;height:45px;margin-top:4px;padding-top:3px}
+.member-content .add-score{padding-top:15px;margin-bottom:30px}
+.member-content .member-apply h3{padding-top:20px;margin-bottom:13px}
+.member-content .member-apply .step{width:82px;-webkit-background-size:contain;background-size:contain;margin-left:41px;margin-right:41px}
+.member-content .member-apply .step span{margin-top:18px}
+.member-content .member-apply .level{top:152px;background-size:100% 100%}
+.member-content .member-apply .step .member-title{font-size:14px}
+.member-content .member-apply .step p{margin-top:57px;font-size:14px}
+.member-content .member-apply .step .level-panel{width:152px;-webkit-background-size:100% 100%;background-size:100% 100%}
+.member-content .member-apply .step .level-panel p{margin:0;padding-left:10px;padding-right:10px;font-size:12px;line-height:18px}
+.member-content .member-apply{margin-bottom:30px}
+.member-content .member-orders>ul{width:50%}
+.member-content .member-orders div{width:50%}
+.member-content .member-orders .fruitday-list{width:450px;margin-left:45px}
+.member-content .member-orders ul>li>ul{margin-bottom:15px}
+.member-content .add-score ul li .exchange-info .leftpart{width: 140px}
+.member-content .add-score ul li .exchange-info .leftpart span.sp1{width: 106px;}
+.member-content .add-score ul li .exchange-info div s{float: right!important;}
+.member-content .add-score ul li .exchange-info div p em{width: 90px;font-size: 16px;padding-top: 4px}
+.member-content .member-applyeat .tryeat-body img{width: 100%;}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox{width: 192px;}
+.member-content .member-applyeat .tryeat-body .member-pricebox .tryeat-none{height: 85px;}
+
+}
+@media only screen and (max-device-width:768px) and (orientation:portrait){
+body{width:100%;height:100%}
+.member-body{width:750px;height:270px;margin:auto;margin-bottom:25px}
+.member-content .member-service,.member-content .My-special,.member-content .add-score,.member-content .member-apply{margin-bottom:25px}
+.member-content{width:750px;margin:0 auto}
+.member-body .member-boxheader{width:100%}
+.member-body .member-info{width:25%}
+.member-body .member-info .member-main{width:100%;padding-top:8px}
+.member-body .member-info .member-main p{margin-bottom:5px}
+.member-body .member-info .member-main .header-img{margin-bottom:5px}
+.member-body .member-info .member-main p{font-size:12px}
+.member-body .member-info .member-main .member-bottom ul li span{font-size:12px}
+.member-body .member-info,.member-body .member-banner{height:270px}
+.member-body .member-info .member-main .header-img{width:100px;height:100px}
+.member-body .member-info .member-main .member-bottom{margin-top:14px}
+.member-body .member-info .member-main .member-bottom ul li.integrate{padding-left:10px;padding-right:10px}
+.member-body .member-info .member-main .member-bottom ul li.remainder{padding-left:15px;padding-right:15px}
+.member-body .member-info .member-main .member-bottom ul li.coupon{padding-left:17px}
+.member-body .member-banner{width:75%}
+.member-body .member-banner .frame{width:100%}
+.member-body .member-banner .frame .slidee>li>a{-webkit-background-size:cover;background-size:cover}
+.member-body .member-banner .slidebtn>li{width:15px;height:15px}
+.member-content .member-righzts{width:80%}
+.member-content .member-righzts .member-enjoy h3,.member-content .My-special h3,.member-content .add-score h3,.member-content .member-apply h3,.member-content .member-orders h3{font-size:18px;padding-top:18px;margin-bottom:16px}
+.member-content .member-righzts .member-enjoy ul li{width:24%;margin:0 2px;}
+ .member-content .member-righzts .member-enjoy ul li .member-img{width:144px;height:144px}
+.member-content .member-righzts .member-enjoy ul li .member-img>a>img{ width: 100%; height: 100%;}
+.member-content .member-applyeat .tryeat-body .member-img>a>img{width: 136px;height: 136px;}
+.member-content .member-applyeat p.tryeat{width:100%;background-size:100% 100%}
+.member-content .member-applyeat .tryeat-body .member-img>img{width:100%;height:auto}
+.member-content .member-applyeat .tryeat-body .member-pricebox{width:100%}
+.member-content .member-applyeat .tryeat-body .member-pricebox p.p-name-width{width:100%}
+.member-content .member-applyeat .tryeat-body .member-pricebox a.price-btn{width:85%}
+.member-content .member-applyeat{width:20%;height:342px;margin-left:0}
+.member-content .member-applyeat .tryeat-body{width:98.5%;padding:20px 6px 0 6px;height:301px}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox,.member-content .member-righzts .member-enjoy ul li .member-pricebox p.p-name-width{width:100%}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox a.price-btn{width:70%}
+.member-content .My-special ul li{width:13.5%;height:115px;margin-right:5px;-webkit-background-size:contain;background-size:contain}
+.member-content .My-special ul li p>i.iconfont{font-size:18px}
+.member-content .My-special ul li p.action,.member-content .My-special ul li p.p-thing{font-size:12px}
+.member-content .My-special ul li p.p-thing{padding-left:5px;padding-right:5px;padding-top:0;line-height:15px}
+.member-content .My-special ul li p.icon{padding:22px 30px 3px 28px}
+.member-content .My-special ul li.disabled p.disabled-padding{padding-top:0}
+.member-content .add-score ul li{position:relative;width:19%;height:auto;}
+.member-content .add-score ul li .exchange-img{width:100%;height:auto}
+.member-content .add-score ul li .exchange-img >img{width:143px;height:143px}
+.member-content .add-score ul li .exchange-info{padding-top:6px}
+.member-content .add-score ul li .right-part{position:absolute;bottom:0;right:0;width:30%;bottom:59px;right:-4px}
+.member-content .add-score ul li .exchange-info div span,.member-body .member-content .add-score ul li .exchange-info div s,.member-content .add-score ul li .exchange-info div s,.member-content .add-score ul li .exchange-info div p em,.member-content .add-score ul li .exchange-info div p span{font-size:12px}
+.member-content .add-score ul li .exchange-info div a{width:90%;height:auto;margin-top:8px}
+.member-content .add-score ul li .exchange-info div p{margin-top:0}
+.member-content .member-applyeat .tryeat-body .member-pricebox .tryeat-none p{font-size: 12px;white-space:nowrap;}
+.member-content .member-applyeat .tryeat-body .member-pricebox .tryeat-none span{font-size: 12px;white-space:nowrap;}
+.member-content .member-apply .step{width:13.85%;margin-left:10px;margin-right:10px}
+.member-content .member-apply .level{top:167px}
+.member-content .member-apply .step span{margin-top:22px}
+.member-content .member-apply .step .member-title{margin-top:5px}
+.member-content .member-apply .step .level-panel{width:153px;-webkit-background-size:70% 70%;background-size:70% 70%;margin-left:-23px;padding-top:14px}
+.member-content .member-apply .step .level-panel p{padding-left:25px;padding-right:25px;font-size:12px;margin:0px;margin-top:10px}
+.member-content .member-apply .step .member-title{font-size:14px}
+.member-content .member-orders>div{display:none}
+.member-content .member-orders ul>li>ul{margin-bottom:10px}
+.member-content .add-score ul li .exchange-info .leftpart{width: 145px;}
+.member-content .add-score ul li .exchange-info div p em{width: 76px;padding-top: 0}
+.member-content .add-score ul li .exchange-info .leftpart span.sp1{width: 100px;}
+.member-content .add-score ul li .exchange-info div p span{padding-top: 0}
+.member-body .member-info .member-main .header-img img{width: 100px;height: 100px;}
+.member-body .member-info .member-main .member-bottom ul li.integrate,.member-body .member-info .member-main .member-bottom ul li.remainder,.member-body .member-info .member-main .member-bottom ul li.coupon{width:56px}
+.member-content .member-righzts .member-enjoy ul li .member-pricebox{width: 144px;}
+.member-content .add-score ul li{margin-bottom: 0}
+}

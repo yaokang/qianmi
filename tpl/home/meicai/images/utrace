@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script type="text/javascript" src="http://www.fruitday.com/js/lib/jquery-1.11.0.min.js"></script>
+</head>
+<body>
+<!-- bi -->
+<script type="text/javascript">
+    var _maq = _maq || [];
+    _maq.push(['_setChannel', 'web']);
+
+    (function() {
+        var ma = document.createElement('script'); ma.type = 'text/javascript'; ma.async = true;
+        ma.src = 'https://statistics.fruitday.com/static/fa.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ma, s);
+    })();
+</script>
+</body>
+</html>
