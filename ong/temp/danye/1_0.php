@@ -44,6 +44,6 @@
   'explx5' => '',
   'explx6' => '',
   'beizhu' => '',
-  'link' => 'http://127.0.0.93/quanbushangpin.html',
+  'link' => 'http://127.0.0.94/quanbushangpin.html',
   'linkstyle' => 1,
 );

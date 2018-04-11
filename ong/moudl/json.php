@@ -32,7 +32,6 @@ if( isset( $_POST['y'])){
                    'login' => '登录注册表',
                  'shouhuo' => '收获地址信息',
                     'ding' => '订单管理',
-             'hongbaolist' => '红包列表',
                     'user' => '用户中心编辑',
                   'cplist' => '产品列表',
                  'pinglun' => '自己的评论列表',
@@ -47,13 +46,14 @@ if( isset( $_POST['y'])){
                   'userin' => 'app退出登录',
                  'orderxq' => '订单详情',
                    'dizhi' => '地址信息',
+                 'hongbao' => '红包接口',
                 );
 
     $LANG = include QTLANG;
 
     /* 需要登录 操作的ac */
 
-    $ACUSER = array( 'gouwuche' , 'login' , 'code' ,'shouhuo','ding','hongbaolist','user','pinglun','jine','jifen','huobi','msgbox','chongzhi','applogin','userin','orderxq','dizhi');
+    $ACUSER = array( 'gouwuche' , 'login' , 'code' ,'shouhuo','ding','user','pinglun','jine','jifen','huobi','msgbox','chongzhi','applogin','userin','orderxq','dizhi','hongbao');
 
     $USERID = 0;
 
