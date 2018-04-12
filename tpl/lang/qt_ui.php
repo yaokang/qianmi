@@ -24,11 +24,11 @@ return array(
                   'ttoken' => 'token 令牌',
                    'cuowu' => '错误提示',
                    'sms1'  => '注册通知(YZM 验证码)',
-                   'sms2'  => '找回通知(ZH 帐号 YZM 验证码)',
-                   'sms3'  => '绑定通知(ZH 帐号 YZM 验证码)',
-                   'sms4'  => '购买通知(NC 昵称 DDID 订单id JINE 购买金额 IP ip地址 TIME 时间 )',
-                   'sms5'  => '发货通知(NC 昵称 DDID 订单id KDFS 快递方式 KDHM 快递号码  TIME 时间)',
-                   'sms6'  => '确认通知(NC 昵称 DDID 订单id  IP ip地址 TIME 时间)',
+                   // 'sms2'  => '找回通知(ZH 帐号 YZM 验证码)',
+                   // 'sms3'  => '绑定通知(ZH 帐号 YZM 验证码)',
+                   // 'sms4'  => '购买通知(NC 昵称 DDID 订单id JINE 购买金额 IP ip地址 TIME 时间 )',
+                   // 'sms5'  => '发货通知(NC 昵称 DDID 订单id KDFS 快递方式 KDHM 快递号码  TIME 时间)',
+                   // 'sms6'  => '确认通知(NC 昵称 DDID 订单id  IP ip地址 TIME 时间)',
                    'sms7'  => '快捷登录(YZM 验证码)',
                   'mailfa' => '邮箱发送帐号',
                'duanxinid' => '短信ID',
@@ -66,12 +66,12 @@ return array(
                 ),
 
        'WAP' => array( 
-                        'cpid' => '产品id',
-                        'tjid' => '推荐id',
+                        // 'cpid' => '产品id',
+                        // 'tjid' => '推荐id',
                         'lxdianhua' => '联系电话',
                         'lxlink' => '联系连接',
-                       'huandeng' => '幻灯片#textqunji#连接,描述,update-图片',
-                       'caidan' => '首页菜单#textqunji#连接,名字,update-图片',
+                        'huandeng' => '幻灯片#textqunji#连接,描述,update-图片',
+                        'caidan' => '首页菜单#textqunji#连接,名字,update-图片',
                      
 
                 ),
@@ -98,6 +98,11 @@ return array(
                        'next' => '下一页',
                       'weiye' => '尾页',
                       
+                ),
+       'HONGBAO' => array(
+
+                        'hbchoucheng' => '红包抽成',
+
                 ),
 
 

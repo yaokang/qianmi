@@ -293,4 +293,5 @@
       '链接' => 'http://www.baidu.com',
     ),
   ),
+  'hbchoucheng' => '',
 );

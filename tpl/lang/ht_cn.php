@@ -227,7 +227,8 @@
                                     ),
                      'settable' => array( 'SEO信息',
                                           '附件设置',
-                                          '常用设置'
+                                          '常用设置',
+                                          // '红包设置',
                                     ),
                    'cmspinglun' => array('guanjian' => '关键词',
                                           'miaoshu' => '分类描述',
@@ -373,14 +374,14 @@
                                                 'ftphttp' => 'FTP资源网址(OSS资源网址)',
                                             ),
                                             array(
-                                                 'sicode' => '验证码强行大小写#select#0,不强行@1,强行'  ,
+                                                 // 'sicode' => '验证码强行大小写#select#0,不强行@1,强行'  ,
                                                    'dbug' => '调试模式#select#0,关闭调试@1,打开调试',
-                                                  'shiqu' => '时区设置',
+                                                  // 'shiqu' => '时区设置',
                                             'sessiontime' => 'session 过期时间( 秒 )',
-                                                   'jine' => '金额名字',
-                                                  'jifen' => '积分名字',
-                                                  'huobi' => '扩展名字',
-                                                'hongbao' => '优惠卷名字',
+                                                   // 'jine' => '金额名字',
+                                                  // 'jifen' => '积分名字',
+                                                  // 'huobi' => '扩展名字',
+                                                // 'hongbao' => '优惠卷名字',
                                                'fenleiji' => '分类支持级数',
                                                'chengshi' => '默认城市名称',
                                                 'regtype' => '注册(登录)方式#select#0,全局(默认手机注册)@1,帐号@2,邮箱@3,手机',
@@ -389,7 +390,9 @@
                                              'yanzhengip' => '默认验证ip#select#'.logacto('yesno'),
                                                   'shnum' => '收货最多条数',
                                                 'kuaireg' => '快捷注册#select#0,关闭@1,开启',
+                                                ''
                                             ),
+                                            
                                     ),
                       'adminac' =>  array('fujian'          => '附件管理',
                                          'adminfenzu'       => '管理权限',
@@ -536,6 +539,7 @@
                                             'APP' => 'app设置',
                                              'AD' => '广告管理',
                                            'PAGE' => '分页标签设置',
+                                        'HONGBAO' => '红包设置',
 
                                    ),
                         'PAGE'  => array( 'dqdi' => '当前',

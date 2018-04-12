@@ -127,6 +127,7 @@ $_SESSION[$AC] = token();
             
             $LUDATA  = include QTLAUI;
              
+            p($LUDATA);
           
             echo houtaifenjie( $LANG['picupdate'].'#imgupdate' , 'linshi', '' ,$LANG['placeholderyes']);
        
