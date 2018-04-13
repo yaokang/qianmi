@@ -21,7 +21,7 @@
   'ERffhz' => 'URL非法后缀',
   'ERnofil' => '模版文件不存在',
   'ERnourl' => 'URL不存在',
-  'token' => '23bb444a382979ab2c00b04c538c278d',
+  'token' => '2d4bb572f043a2e75dd97b660fff9f22',
   'xibiao' => '6',
   'linshi' => '',
   'home' => '',
@@ -179,4 +179,5 @@
   'adindex' => '',
   'index3ad' => '',
   'indexoad' => '',
+  'hbchoucheng' => '35',
 );

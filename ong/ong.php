@@ -184,7 +184,7 @@ if( defined( 'ONGQHTPL') && ONGQHTPL !='') $CONN['htpl'] = ONGQHTPL;
 if( defined( 'ONGQQTPL') && ONGQQTPL !='') $CONN['qtpl'] = ONGQQTPL;
 
 define( 'QTLANG' , ONGPHP.'../tpl/home/'.wlx( $CONN['qtpl'] ).'/qt_'.$CONN['qtlang'].'.php' );
-define( 'QTLAUI' , ONGPHP.'../tpl/home/'.wlx( $CONN['qtpl'] ).'/qt_ui.php' );
+define( 'QTLAUI' , ONGPHP.'../tpl/lang/qt_ui.php' );
 
 if( ONGQQTPL == ''
 
